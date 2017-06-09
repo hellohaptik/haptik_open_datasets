@@ -7,3 +7,4 @@ Task: train a multi-label classifier to classify "message" into one or more clas
 Ecaluation: 
 Precision, Recall, Accuracy per class
 Overall Accuracy (all classes are correctly identified)
+NOTE: Please note that the messages are in raw format, it also contains system specific content which may not be important for identifying domain.We have kept it as it is, to give a glimpse of real world data. It is important to preprocess messages and remove such information for better training.
