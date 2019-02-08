@@ -168,7 +168,6 @@ pid,sentence1,sentence2,label
 259,please resend the boarding pass to my email,Best flight ticket to thailand,0
 260,Duke 200,ktm duke 200,1
 264,Are the vouchers transferable among children of Song of Joy?,Voucher Transfer,0
-266,14 th feb morning flight to goa 7 adults 2 kids,dd __city__,0
 267,I am a salaried Individual,Salaried,0
 268,33 kg cylinder,450 KG Maxima Cylinder,0
 269,Complaint Status,What is my Complaint Status?,1
@@ -260,7 +259,7 @@ pid,sentence1,sentence2,label
 400,Survival Benefit,Need to know the Survival Benefits of saral nivesh plan,0
 401,reminder to call modification,need to call phone,0
 402,I am from other location,Other location,1
-403,I want to search for a reminder,want reminder for repeat_banner,0
+403,I want to search for a reminder,want reminder for ,0
 404,stop pnr alert,stop pnr,1
 405,Approx premium will be?,premium,0
 406,How to get promocode,didnt get cashback,0
@@ -638,7 +637,6 @@ pid,sentence1,sentence2,label
 1069,want reminder for walk,send reminder,0
 1070,"I checked, the order ID given is correct",That's my correct ID,0
 1071,tell me about discount deal on flight booking,Is there student concession flights,0
-1072,at __product_name__,take out __product_name__,0
 1073,how to apply,How to login,0
 1075,call to remind phone,remind phone,1
 1076,I would like to book a flight ticket,I want to book a flight,1
@@ -1853,7 +1851,7 @@ pid,sentence1,sentence2,label
 3389,ac design,fix ac unit,0
 3390,I want to cancel my flight trip,remove this flight alert,0
 3391,when did you start taking convenience fee,I am getting same without convenience charge,0
-3395,to view my reminders,want reminder for repeat_banner,0
+3395,to view my reminders,want reminder for ,0
 3396,issue realated to village which level to file,level to file a grievance,0
 3399,My ID is correct,That order ID is correct,1
 3403,test price,price,0
@@ -2543,7 +2541,7 @@ pid,sentence1,sentence2,label
 4754,What is my final quiz score?,What is my final score for the predict & win quiz,0
 4756,My ID is correct,I gave the correct ID,1
 4758,I want pay my landline bill,Can i pay landline bills?,1
-4759,make me remember,make me remember repeat_banner,0
+4759,make me remember,make me remember ,0
 4763,Email me my flight tickets,looking for Flight Tickets,0
 4766,Any offers currently available on uber tickets.,Are there any cashback offers,0
 4770,Is this the final price I have to pay No offers available,I want to book movie tickets and avail discounts,0
@@ -3246,7 +3244,7 @@ Is Stamp Duty payable on the market value of the property or on consideration as
 6265,Can you schedule a reminder for exercise,Can you schedule a reminder for meeting,0
 6266,Apply loan,Want to apply for a loan,1
 6271,want reminder for birthday,my reminder list,0
-6273,set a reminder,schedule a reminder repeat_banner,0
+6273,set a reminder,schedule a reminder ,0
 6274,who is my relation manager,relation manager,1
 6275,any cashback on flight booking,Any Discount on Cinema,0
 6277,Cancel wake up call for tomorrow morning,wake up,0
@@ -4152,7 +4150,7 @@ How is carpet area different from MOFA?",0
 8261,I want to edit my reminder,wake up reminder modify,1
 8262,Mutual Funds,Is mutual funds risky?,0
 8267,set a reminder appointment,set reminder,0
-8268,remind me regarding,remind me regarding repeat_banner,0
+8268,remind me regarding,remind me regarding ,0
 8269,Indian Resident,non resident indian,0
 8271,i want offer on flight booking.,any cashback on flight tickets,0
 8275,Order ID is correct,I've already given the correct ID.,0
@@ -4192,7 +4190,7 @@ How is carpet area different from MOFA?",0
 8379,tell another tip,another tip,1
 8380,i want indigo flights,can you look for airasia,1
 8381,please email ticket,where is the ticket email,1
-8386,remind me about,remind me about repeat_banner,0
+8386,remind me about,remind me about ,0
 8387,I want to book flight tickets for Diwali,I want to book flight tickets for Christmas,0
 8388,That was the right ID only,My order ID is right,1
 8392,How to get friends invite amount,How to invite friends?,0
@@ -4312,7 +4310,7 @@ How is carpet area different from MOFA?",0
 8646,tell me the flight fare,cancel flight fare alert,0
 8649,no refund my money,Please refund my money,1
 8652,What is your name,What is your toll free number,0
-8654,set reminder,schedule a reminder repeat_banner,0
+8654,set reminder,schedule a reminder ,0
 8655,33kg Cylinder,450 KG Maxima Cylinder,0
 8656,what is the test fee,what tests you have,1
 8657,stop alert train live status,Sorry I wanted to remove alert,0
@@ -4893,7 +4891,7 @@ How is carpet area different from MOFA?",0
 10038,modify a reminder,sorry change that reminder,1
 10039,I want a joke,Send me jokes everyday,0
 10041,Are you a Bot or Human,Are you a bot,0
-10042,remiand me about,remiand me about repeat_banner,0
+10042,remiand me about,remiand me about ,0
 10044,Stop notifying with flight alerts,start flight alert,0
 10046,Need to know the rates for flight,Please inform me when flights rates go down,0
 10050,Can u change the dates,Could you please help me to modify my date if journey,0
@@ -4954,7 +4952,7 @@ How is carpet area different from MOFA?",0
 10181,Impossible to make booking,impossible to use,1
 10182,want to enquire about tiffin services,I want to know about tiffin services,1
 10185,Big Basket,"Hi, I am interested in Big Basket Gift Card  .",1
-10186,ring alarm repeat_banner,set an alarm repeat_banner,1
+10186,ring alarm ,set an alarm ,1
 10187,I needed to cancel my ticket and it took a long time,Cancelling my ticket was very time intensive,0
 10188,Can you tell me what is the new feature,Tell me what's the purpose of this app,0
 10189,I wanna know about Survival Benefits,Help me with Survival Benefits of saral nivesh,0
@@ -5244,7 +5242,7 @@ How is carpet area different from MOFA?",0
 10835,railway station,nearest train station,1
 10836,set cheapest fare alert,Please set a cheap flight alert,1
 10838,Please add boost and kinder joy,boost and kinder joy,1
-10839,list of my reminder,want reminder for repeat_banner,0
+10839,list of my reminder,want reminder for ,0
 10840,show motivational quotes,Give me a motivation,1
 10841,How to get my loan statement,How to get new password,0
 10842,Where can cash back be used,cash back not received,0
@@ -5354,7 +5352,7 @@ How is carpet area different from MOFA?",0
 11125,Can you remind me to wish anniversary,remind me to,0
 11126,Want to know Survival Benefits of GCAP,Can you share the Survival benefits?,0
 11127,I want to book flight tickets.,provide me Flight Tickets,0
-11131,list my reminder,want reminder for repeat_banner,0
+11131,list my reminder,want reminder for ,0
 11133,That was the right ID,I gave the right ID,1
 11134,There is no franchisee in my location,there is no action by distributor on complaint,0
 11135,recommend Flight Tickets,Price of flight tickets to Switzerland,0
@@ -5364,7 +5362,7 @@ How is carpet area different from MOFA?",0
 11144,My referral code is blocked,What is my referral code,0
 11146,i have a free voucher code,i have a free voucher,1
 11149,Entry Fees to be considered,Entry fees is refunded,0
-11151,view reminders,want reminder for repeat_banner,0
+11151,view reminders,want reminder for ,0
 11159,want train tickets from mumbai to pune,cheap rate for mumbai to delhi,0
 11161,I need to know pricing,price,0
 11168,Under 10Lacs,35 lacs,1
@@ -5703,7 +5701,7 @@ How is carpet area different from MOFA?",0
 11984,I need for 8 persons,I want 15 no seat,0
 11986,Where credit cash back amount,Where is my cash back,0
 11988,I want to book ticket,I want to book bus tickets for Diwali,0
-11993,need a reminder,want reminder for repeat_banner,0
+11993,need a reminder,want reminder for ,0
 11995,Still it is not getting connected,did not get One time password,0
 11997,getting cheap on paytm and goibibo,getting cheap somewhere else,0
 11998,Any other discount,Coupon,0
@@ -5811,7 +5809,7 @@ How is carpet area different from MOFA?",0
 12231,Hi! I want to book a bus ticket. .,No bus ticket booking,0
 12233,not receiving pin to connect,I havent receive any password,0
 12234,I want to check flights,Please help me on above flight check in,0
-12238,remiand me about phone,remiand me about repeat_banner,0
+12238,remiand me about phone,remiand me about ,0
 12239,book cab for home,Cab booking,0
 12241,Change Bank Account,I have to change the bank from,1
 12243,I want to know about the price of another test,another test,0
@@ -6413,7 +6411,7 @@ How is carpet area different from MOFA?",0
 13706,suggest me Flight Tickets,show flights on,1
 13707,I need a invoice copy,Send the invoice,1
 13708,What will be the Survival Benefits of my life,Survival Benefit,0
-13711,I would like to view my reminder,want reminder for repeat_banner,0
+13711,I would like to view my reminder,want reminder for ,0
 13712,modification medicine reminder,set another medicine reminder,0
 13713,change savings bank account,How many savings bank account I can register with my trading account?,0
 13714,I need to book a flight,Please help me with booking flight tickets,0
@@ -6523,7 +6521,7 @@ How is carpet area different from MOFA?",0
 13990,yeah,Yeah go ahead,0
 13991,Pay d2h,d2h,1
 13993,I need to book a flight,Help me flight booking,0
-13994,show my reminders,want reminder for repeat_banner,0
+13994,show my reminders,want reminder for ,0
 13997,I need a invoice copy,I need invoices,1
 14001,stop alert flight,Please set a cheap flight alert,0
 14002,schedule a reminder birthday,want reminder for birthday,1
@@ -6574,7 +6572,7 @@ How is carpet area different from MOFA?",0
 14116,Manage my flight bookings,Book me a flight,0
 14119,I would like to cancel my,I would like to cancel my `wish happy birthday!` reminder for,0
 14122,Do u have landline payment option,landline payment,1
-14123,my reminder list,want reminder for repeat_banner,0
+14123,my reminder list,want reminder for ,0
 14124,documents do you require?,"I already have a demat account, do i still need to give you all the required documents?",0
 14129,I didnt get the ticket in email,please email me my ticket,1
 14132,schedule a reminder medicine,Can you schedule a reminder for meeting,0
@@ -7301,7 +7299,7 @@ How is carpet area different from MOFA?",0
 16057,getting cheap on paytm,I HAVE GOT CHEAPEST FARE IN TRAIN,0
 16058,your app is so boring,I hate your app,0
 16063,I want offers on uber booking.,like to purchase uber,0
-16068,send reminder,want reminder for repeat_banner,0
+16068,send reminder,want reminder for ,0
 16071,That was the correct order ID,Can you tell me where is my order ID?,0
 16076,found cheaper on yatra,Make my trip is giving cheap flights,0
 16077,I want to check status of a flight,Flight status,1
@@ -7359,7 +7357,6 @@ How is carpet area different from MOFA?",0
 16214,I want to book flight,I want to book zoomcar,0
 16216,Its taking time to load,OTP taking time,0
 16217,"Hey, can you help me get insurance .","hey, can you help me with my wishlist .",0
-16219,Mumbai,dd __city__,0
 16220,Explain me the key features of Total Secure,Key Features,0
 16222,Status,status of report,0
 16225,I want to book as armed force category,I want to book flight tickets.,0
@@ -7464,7 +7461,7 @@ How is carpet area different from MOFA?",0
 16495,set cheapest fare alert,Hi I want to set cheapest fare alert .,1
 16497,show me ur pic,Give me your number,0
 16501,I want discounts on flights,Tutorial for flights cashback,0
-16504,i want reminder,want reminder for repeat_banner,0
+16504,i want reminder,want reminder for ,0
 16507,daily horoscope,My horoscope,0
 16511,Difficult to use,annoying to use,0
 16512,I will give already 72 hours,72 hours already,0
@@ -7867,7 +7864,7 @@ Why is the extra charge on water tankers and diesel lumpsum?",0
 17584,calculate premium for total secure plus,Total Secure plus eligibility,0
 17587,Assist me with Survival Benefits of GCAP,Want to know Survival Benefits of GCAP,1
 17588,I need a rental cab,I want a rental,1
-17590,schedule a reminder,set reminder repeat_banner,0
+17590,schedule a reminder,set reminder ,0
 17591,want reminder for drink water,can you list my reminder,0
 17592,I want to check my order status,Can I please check my order status?,1
 17593,any cashback on flight tickets,any cashback on flight booking,1
@@ -8251,7 +8248,7 @@ Why is the extra charge on water tankers and diesel lumpsum?",0
 18585,Didnt receive cashback,I haven't received tickets for my previous booking,0
 18589,how to join contest,How to delete the joined contest,0
 18590,why are you charging convenience fee,How much is convenience fee,0
-18593,make a reminder,make a reminder repeat_banner,0
+18593,make a reminder,make a reminder ,0
 18594,I did not receive the OTP,No OTP received,1
 18595,What is your helpline number?,What is your refill price ?,0
 18599,Is there student concession flights,Tutorial for flights coupon code,0
@@ -8589,7 +8586,7 @@ Why is the extra charge on water tankers and diesel lumpsum?",0
 19573,any bus available from,Any bus ticket available,0
 19576,What is calorific value of LPG,Gross Calorific Value,0
 19577,how to add a debit card,i am unable to use rupay debit card,0
-19580,want reminder for,want reminder for repeat_banner,0
+19580,want reminder for,want reminder for ,0
 19583,only the old one is showing,please show me one way flights,0
 19584,Book flight,Please help me with flight booking,0
 19590,stop alert train live status,running live status,0
@@ -9022,7 +9019,7 @@ Why is the extra charge on water tankers and diesel lumpsum?",0
 20802,can we change passenger name on ticket,how to change passenger name on ticket,1
 20803,tell me about discount deal on flight booking,Do u have any offer for flight,0
 20806,want reminder for jog,show my reminders,0
-20808,view my reminder,want reminder for repeat_banner,0
+20808,view my reminder,want reminder for ,0
 20814,not working,still doesnt work,0
 20815,when can i place Payout request,payout request for options segment,0
 20816,stop my reminder,I need to cancel a reminder,1
@@ -9054,7 +9051,7 @@ Why is the extra charge on water tankers and diesel lumpsum?",0
 20875,important features of total secure,Help me with the Total Secure plan,0
 20876,Where is my wake up alarm,"Hey, can you help me set a wake up alarm? .",0
 20884,colors gujarati,all shows colors gujarati,1
-20889,schedule a reminder,set a reminder repeat_banner,0
+20889,schedule a reminder,set a reminder ,0
 20891,I want to book flight,i want to buy a bike,0
 20893,like to purchase Flight Tickets,I want the boarding pass for my flight,0
 20898,want mumbai to bangalore flights,Please proceed with below flight from Delhi to Bangalore for 1 adult onward flight air dep 00 00 1 dec dep 00 00 1 dec,0
@@ -9461,7 +9458,7 @@ Why is the extra charge on water tankers and diesel lumpsum?",0
 22103,How many calories in limca?,how many calories are there in thumbs up,0
 22106,show me your photo,I want ur no.,0
 22107,looking for Flight Tickets,I need flight,1
-22109,set a reminder repeat_banner,set a reminder,0
+22109,set a reminder ,set a reminder,0
 22117,Book flights,Help me flight booking,0
 22119,no i am not married,no i am not,1
 22120,reminder for exercise,cancel my exercise reminder,0
@@ -10118,7 +10115,7 @@ Can I get a delivery in Sundays & Holidays and also during morning / evening hou
 24010,I want to know about the flight offers,Tutorial for flights discounts,0
 24011,Share more information about your structure,More information about the new movie,0
 24013,Send me the ticket on my mail,want ticket from mumbai to pune,0
-24014,show reminders,want reminder for repeat_banner,0
+24014,show reminders,want reminder for ,0
 24015,Help me flight booking,want to buy Flight Tickets,0
 24020,I want to know about refund status,What about the refund for PNR 08QI6D,0
 24021,Remind me when fares drop,Can u please track the price for me and let me know when the price falls,0
@@ -10285,7 +10282,6 @@ Can I get a delivery in Sundays & Holidays and also during morning / evening hou
 24485,Set an alarm for me to wish someone anniversary,Set an alarm for me to walk someone,0
 24487,Cashback,i didnt received my cashback yet??,0
 24495,i want discount on flight booking,I want to book a flight,0
-24496,please proceed below flights new delhi to bangalore 1 adult - onward flight - 3038 jet airways 9w-823 dep 02 50 pm 29 dec,dd __city__,0
 24504,Have received pin now,not receiving pin,0
 24505,getting same fare on other sites,I am getting flight with slight lower price on other platform,0
 24509,Help me with the Key Features,Explain me the key features of Total Secure,0
@@ -10385,7 +10381,7 @@ Can I get a delivery in Sundays & Holidays and also during morning / evening hou
 24773,I havent receive any password,pin didnt receive,0
 24774,I want my tickets emailed,send ticket softcopy,0
 24783,cancel pnr status alert for train,Check flight pnr status,0
-24784,make a remainder,make a remainder repeat_banner,0
+24784,make a remainder,make a remainder ,0
 24785,bus booking,I want bus bookings,1
 24792,Send me the ticket on my mail,Please mail me the tickets,1
 24793,Dont send notification,Don't send me again,0
@@ -10499,7 +10495,7 @@ Can I get a delivery in Sundays & Holidays and also during morning / evening hou
 25124,my EMI is not deducted,why is my EMI not deducted,1
 25125,Want to do a Bank account verification,when it will be credited to bank account,0
 25130,My cash back is not credited,cash back not received,0
-25131,remiand me about exercise,remiand me about repeat_banner,0
+25131,remiand me about exercise,remiand me about ,0
 25132,Tell another joke,I want another joke,1
 25134,What are the key features of My Life,Explain me the key features of My Life,1
 25137,link new account,link new bank account,1
@@ -10844,7 +10840,7 @@ Can I get a delivery in Sundays & Holidays and also during morning / evening hou
 26182,Can I change my Nominee,I want to modify nominee,1
 26183,I want to check status of a flight,may i know the status of flight,1
 26188,when did you start charging convenience fee,you guys are charging convenience fees,1
-26189,schedule a reminder,schedule a reminder repeat_banner,0
+26189,schedule a reminder,schedule a reminder ,0
 26194,Alarm to drink water,Set an alarm to meet,0
 26195,i have to pay bill electricity,I want to pay my utility bill,0
 26197,status report,I want to check the status of my report,1
@@ -11178,7 +11174,7 @@ Can I get a delivery in Sundays & Holidays and also during morning / evening hou
 27155,did not work,still not working,0
 27158,Need to know about GCAP,need to know about wealth plus,0
 27165,Thumbs up is your product,quantity of sugar in thumbs up,0
-27168,set reminder repeat_banner,set a reminder,0
+27168,set reminder ,set a reminder,0
 27169,Thanks i was just checking the price,check price for flight from mumbai to pune,0
 27172,Show me another fun fact,show another,0
 27173,Jamshedpur Electricity bill,I need   to pay electricity bill,0
@@ -11373,7 +11369,7 @@ What documents Customer gets at the time getting the new connection?",0
 27784,when will i receive payout,when will i receive the funds in my bank,0
 27788,Still not getting connected.,Didn't get my pin,0
 27789,I want to check flight bookings,Please help me on above flight check in,0
-27791,schedule a reminder repeat_banner,set a reminder,0
+27791,schedule a reminder ,set a reminder,0
 27798,show me the joke,Send joke everyday,0
 27801,I need information about your corporate structure,Share more information about your CSR intitatives,0
 27806,I want to change my bank account,I want to change nominee,0
@@ -11440,7 +11436,6 @@ What documents Customer gets at the time getting the new connection?",0
 28025,I want to add a new reminder.,Hey can you help me add a new To-do  .,0
 28026,Find me a train,want trains from,1
 28027,Is there any cashback,Is there any reminder for flights ticket,0
-28029,in delhi,dd __city__,0
 28040,Please give me offers,Sir when My Cashback given by you,1
 28042,documents required after getting new connections,Documents Required,0
 28044,want reminder for drink water,I want to search for a reminder,0
@@ -11664,7 +11659,6 @@ What documents Customer gets at the time getting the new connection?",0
 28750,14 th feb morning flight to goa 7 adults 2 kids,Flight from delhi to srinagar,0
 28752,That order ID is correct,The order ID is right,0
 28754,Can I please check my order status?,order status,1
-28759,at __product_name__,delete __product_name__,0
 28762,I want to book flight tickets for Guru Nank Jayanti,I want to book flight tickets for ID-E-MILAD,0
 28763,Order ID is correct,The order ID is right,0
 28764,Cash back not receive,Cash back not received Amazon pay,1
@@ -12811,7 +12805,7 @@ Is Stamp Duty payable on the market value of the property or on consideration as
 32486,Show another adult joke,Show another,0
 32490,Any good offers for bill payment of idea postpaid,any best offer,1
 32491,Is it possible to pay Landline bill using this app?,How can I pay my landline bill?,1
-32494,set a reminder,set reminder repeat_banner,0
+32494,set a reminder,set reminder ,0
 32497,Is it permissible to sell parking to allottees?,sell parking to allottees,1
 32499,remind me to exercise,"Hey, can you set a reminder for me to exercise?  .",1
 32503,I want to know the key features of Total Secure,Help me with the Total Secure plan,0
@@ -13314,7 +13308,7 @@ Is Stamp Duty payable on the market value of the property or on consideration as
 34168,I wanna fly to hyderabad,Can I get the fare rates of flights from Amritsar to Hyderabad for Dec 3,0
 34169,I already have manifold setup? Does your cylinders fit into this installations ?,Do you provide Manifold Setup,0
 34173,I need to book a flight,Not looking to book anything,0
-34176,remiand me about walk,remiand me about repeat_banner,0
+34176,remiand me about walk,remiand me about ,0
 34180,12kg LPG cylinder,home lpg cylinder,0
 34181,I want to book a flight,New flight booking,0
 34182,plz stop to all reminders,I need to cancel my daily reminders,0
@@ -13450,7 +13444,7 @@ Is Stamp Duty payable on the market value of the property or on consideration as
 34646,Hey can you tell me about the phonepe cash back .,How much I will hate cash back,0
 34652,New flight booking,like to buy Flight Tickets,0
 34655,call to remind drink water,remind me drink water,1
-34656,can you list my reminder,want reminder for repeat_banner,0
+34656,can you list my reminder,want reminder for ,0
 34657,Is it important to buy Stove,compulsory to buy stove and other accessories from distributor,0
 34658,i have an old otp,can i use an old One time password,1
 34664,Didnt receive OTP,received my OTP,1
@@ -14482,7 +14476,6 @@ Why is the extra charge on water tankers and diesel lumpsum?",0
 38055,reminder for medicine,prepare a reminder medicine,1
 38057,show your picture,can u give me ur number,0
 38061,modification Reminder to Call,call to remind exercise,0
-38065,Bombay,dd __city__,0
 38066,Your Prices too high,Too high,0
 38074,"Hey, can you remind me to call someone?   .",I need a reminder for calling someone,1
 38075,I want pay my landline bill,How can I pay my landline bill?,1
@@ -15947,7 +15940,7 @@ What documents Customer gets at the time getting the new connection?",Documents 
 43212,You get LPG from?,Why Govt adopters are different from LPG?,0
 43224,Please send your pic,Send your Number...,0
 43226,I am unable to see any plans on the page.,Unable to see any OTP,0
-43237,set a reminder,set a reminder repeat_banner,0
+43237,set a reminder,set a reminder ,0
 43252,I don't know my zodiac sign,Don't know the answers,0
 43254,How much discount the coupon code has,How can I use coupon code in flights,0
 43255,Send your pic,Send your Number...,0
@@ -16084,7 +16077,7 @@ What documents Customer gets at the time getting the new connection?",Documents 
 43755,want trains from,please find trains,1
 43756,i want to update minor as nominee for demat account,Process to update minor as nominee,1
 43759,any cash back,I didn't get my cash back,0
-43762,remind me about repeat_banner,remiand me about repeat_banner,1
+43762,remind me about ,remiand me about ,1
 43763,set a reminder jog,exercise reminder,1
 43766,What are the commercial cylinder sizes ?,Share the escalation Matrix for commercial cylinders.,0
 43767,make a reminder drink water,want reminder for drink water,1
@@ -16511,7 +16504,6 @@ Why is the extra charge on water tankers and diesel lumpsum?",0
 45183,like to purchase Flight Tickets,Want to book flight from Mumbai to Delhi,0
 45184,Sports shop,Sports shops near me,1
 45187,cancel pnr status alert,pnr status,0
-45189,at __product_name__,rid of __product_name__,0
 45190,Still not received Amazon Cashback,My Cashback not received,0
 45191,where to apply the lounge code,How to apply the lounge code,1
 45201,send me a joke,Keep sending me jokes,0
@@ -17154,7 +17146,7 @@ Why is the extra charge on water tankers and diesel lumpsum?",0
 47465,I am unable to view the status of my report.,I'm unable to find my customer ID,0
 47469,I want to add a new reminder,Hey can you help me add a new To-do . .,0
 47471,remind medicine,make a reminder medicine,1
-47473,set reminder,set reminder repeat_banner,0
+47473,set reminder,set reminder ,0
 47475,Book me a night ticket to Delhi tomorrow,Can I get the fare rates of flights from Amritsar to Hyderabad for Dec 3,0
 47476,Landline phone bill,I need to pay my mobile bill,0
 47480,bad bot,are you a bot,0
@@ -20277,7 +20269,7 @@ Can the vouchers be transferred?",0
 59264,I want to check flight bookings,I would like to book a flight ticket,0
 59266,what services do you have for cars?,What services you provide?,0
 59267,reminder for walk,set reminder walk,1
-59269,give reminder,want reminder for repeat_banner,0
+59269,give reminder,want reminder for ,0
 59273,Landlines bill payment option not available,WBSCDCL not available here,0
 59277,need flights from mumbai to pune,recommend me Flight Tickets,0
 59278,"Hey, can you set a reminder for me to jog?  . .",set reminder,0
@@ -21735,7 +21727,7 @@ What are the checkpoints to ensure cylinder is safe for use?",things to check af
 65040,i have a flat tyre,flat tyre in bike,1
 65057,When I will get confirmation message?,When will I get confirmation,1
 65061,can u give me ur number,i need your number,1
-65065,set reminder,set a reminder repeat_banner,0
+65065,set reminder,set a reminder ,0
 65075,modify address,How to change my address,1
 65076,Cancel all reminders,view all reminders,0
 65077,discontinue my wake up call,i would like to cancel wake up call,0
@@ -21799,7 +21791,6 @@ What are the checkpoints to ensure cylinder is safe for use?",things to check af
 65302,i want ticket from mumbai to pune,I wanna fly to hyderabad,0
 65317,12kg LPG,33 kg,0
 65319,I want to know about personal loan information,No personal loan,0
-65327,Patna,dd __city__,0
 65330,Please help me with booking flight tickets,I want to book flight tickets for ID-E-MILAD,0
 65335,Mutual Funds,Are mutual funds risky,0
 65342,looking Flight Tickets,to buy Flight Tickets,0
@@ -21989,7 +21980,6 @@ What are the checkpoints to ensure cylinder is safe for use?",things to check af
 66149,what is the current offer,Any offers currently available on train booking,0
 66152,reminder to call,"Hey, can you set a reminder for me to walk?  . .",0
 66153,do you track sleep?,Track my sleep schedule.,1
-66156,Delhi,dd __city__,0
 66157,suggest me book store near me,help me with book store near me,1
 66162,when did you start charging convenience fee,convenience fee zero,0
 66164,Where can I find your office?,Where can I find your stores?,0
