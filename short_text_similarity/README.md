@@ -6,7 +6,7 @@ This dataset contains 24.3k text pairs extracted from chatlogs from 50+ bots wit
 2. Unlike ideal datasets which are mostly generated from news, emails, etc., and contains well structured english sentences, this dataset contains anomalies in sentence structure, spelling mistakes, etc. which are common on messaging/voice interface.
 3. It can be best used to evaluate domain agnostic word representatons for semantic similarity downstream task.
 
-The file `data.csv` has 4 columns
+The file `train.csv` has 4 columns
 
 - `pid`  - Unique id for pairs.
 - `sentence1` - One of messages sent by some user to one of the bots.
