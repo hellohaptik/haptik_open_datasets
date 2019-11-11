@@ -1,0 +1,392 @@
+sentence_english,sentence_hindi,sentence_marathi,intent
+I am not able to connect the call,मैं कॉल कनेक्ट नहीं कर पा रहा हूं,मी कॉल कनेक्ट करू शकत नाही,check volte compatability v2
+unable to make calls to other numbers,में दूसरे नंबरों पर कॉल नहीं कर पा रहा हूं,दुसऱ्या नंबरवर कॉल करायला होत नाही,check volte compatability v2
+i am not able to make calls what do i do,मैं क्या करूं मैं कॉल नहीं कर पा रहा हूं?,मी कॉल करू शकत नाहीमी काय करायचं,check volte compatability v2
+i am not able to initiate calls,मैं कॉल नहीं लगा पा रहा हूँ,मी कॉल इनिशीऐट करू शकत नाही,check volte compatability v2
+i am not able to call from my jio sim,मेरे जियो सिम से मैं कॉल नहीं कर पा रहा,मी माझ्या जिओ सिमवरुन कॉल करू शकत नाही,check volte compatability v2
+what is my account status,मेरे अकाउंट का स्टेटस क्या है,माझा अकाउंट स्टेटस काय आहे,check account status v2
+my jio account status,मेरे जियो अकाउंट का स्टेटस,माझा जिओ अकाउंट स्टेटस,check account status v2
+whats the status of my jio connection,क्या है मेरे जियो कनेक्शन का स्टेटस,माझ्या जिओ कनेक्शनचा स्टेटस काय आहे?,check account status v2
+check my account,मेरा अकाउंट चेक करना,माझा अकाउंट चेक करा,check account status v2
+can you check if airplane mode is activated,क्या आप चेक करेंगे यदि एयरप्लेन मोड एक्टिवेटिड है या नहीं,आपण चेक करू शकता ऐरप्लेने मोड ऐक्टिवैट केली आहे का,check airplane mode v1
+tell me about my internet speed,मेरे इंटरनेट स्पीड के बारे में मुझे बताएं,माझ्या इंटरनेटची स्पीडबद्दल मला सांगा,check internet speed v1
+what is my internet speed,क्या है मेरी इंटरनेट की स्पीड,किती आहे माझी इंटरनेटची स्पीड,check internet speed v1
+check my internet speed,मेरा इंटरनेट स्पीक्ड चेक कीजिये,माझा इंटरनेट स्पीड चेक करा,check internet speed v1
+what is the speed of my internet,मेरे इंटरनेट की स्पीड क्या है,माझ्या इंटरनेटची स्पीड किती आहे,check internet speed v1
+is my internet speed good,क्या मेरी इंटरनेट की स्पीड अच्छी है,माझी इंटरनेटची स्पीड चांगली आहे का,check internet speed v1
+what is my data speed,क्या है मेरे डेटा की स्पीड,माझा डेटा स्पीड काय आहे,check internet speed v1
+i want to know my internet speed,मैं अपनी इंटरनेट की स्पीड जानना चाहता हूं,मला माझा इंटरनेट स्पीड जाणून घ्यायचा आहे,check internet speed v1
+check my data speed,मेरे डेटा की स्पीड को चेक करना,माझा डेटा स्पीड चेक करा,check internet speed v1
+my jio sim is not working,मेरा जियो सिम नहीं काम कर रहा है,माझा जिओ सिम काम करत नाही,check jio sim v1
+i want to check my jio sim,मैं अपना जियो सिम चेक करना चाहता हूं,मला जिओ सिम चेक करायचा आहे माझा,check jio sim v1
+how can i know if this sim is active,मुझे कैसे पता चलेगा कि यह सिम एक्टिव है,माझा सिम ऐक्टिव आहे हे मला कसे कळेल,check jio sim v1
+are voice service active on my jio number,क्या मेरे जियो नंबर पर वॉइस सर्विस एक्टिव है,माझ्या जिओ नंबरवर वॉइस सर्विस ऐक्टिव आहेत का,check may voice status v1
+tell me about voice services,मुझे वॉइस सर्विस के बारे में बताएं,वॉइस सर्विसबद्दल सांगा मला,check may voice status v1
+what is my voice status,मेरा वॉइस स्टेटस क्या है,माझा वॉइस स्टेटस काय आहे,check may voice status v1
+is my data connection active,क्या मेरा डेटा कनेक्शन एक्टिव है,माझा डेटा कनेक्शन ऐक्टिव आहे का,check mobile data connection v1
+is my data working,क्या मेरा डेटा चल रहा है,माझा डेटा चालतेय का,check mobile data connection v1
+check signal on my jio number,मेरे जियो नंबर पर सिग्नल चेक करें,माझ्या जिओ नंबरवर सिग्नल चेक करा,check signal strength v2
+i am getting slow network in jio,मुझे जियो पर स्लो नेटवर्क मिल रहा है,माझ्या जियोवर स्लो नेटवर्क येत आहे,check signal strength v2
+is my wifi connection on,क्या मेरा वाईफाई कनेक्शन ऑन है,माझा वायफाय कनेक्शन चालू आहे का,check wifi connection v1
+is my wifi working,क्या मेरा वाईफाई चल रहा है,माझा वायफाय चालतो का,check wifi connection v1
+internet on my jio number is not working,मेरे जियो नंबर पर इंटरनेट चल नहीं रहा है,माझ्या जिओ नंबरवर इंटरनेट काम करत नाही,mobile data intro v1
+i am not able to browse internet,मैं इंटरनेट ब्राउज़ नहीं कर पा रहा हूँ,मी इंटरनेट ब्राउझ करू शकत नाही,mobile data intro v1
+what plans are available for my jio number,मेरे जियो नंबर के लिए क्या प्लान्स अवेलेबल हैं,माझ्या जिओ नंबरसाठी काय प्लॅन्स अवैलबल आहेत,browse plans v1
+I want to know about the jio plans,मैं जियो प्लान्स के बारे में जानना चाहता हूं,मला जिओच्या प्लॅन्सबद्दल जाणून घ्यायचे आहे,browse plans v1
+what is my daily data balance,मेरा डेली डेटा बैलेंस क्या है,माझा डेली डेटा बॅलेन्स काय आहे,data usage v1
+how much data i have used today,आज मैंने कितना डेटा यूज़ किया है,मी किती डेटा यूज़ केला आज,data usage v1
+What is my data balance,क्या है मेरा डेटा बैलेंस,माझा डेटा बॅलेन्स काय आहे,data usage v1
+Get me my internet balance,मुझे मेरा इंटरनेट बैलेंस जानना है,मला इंटरनेट बॅलेन्स सांगा माझा,data usage v1
+I want to see my mobile data balance,मैं मेर मोबाइल डेटा बैलेंस देखना चाहता हूं,मला माझा मोबाइल डेटा बॅलेन्स पहायचा आहे,data usage v1
+show me paid bill details on my jio number,मुझे मेरे जियो नंबर पर पेड बिल दिखा दीजिये,पेड बिल्सचे डिटेल्स माझ्या जिओ नंबरवर मला दाखवा,postpaid bill payment  v1
+where can I find my previous bill payment,मुझे अपना पिछला पेमेंट का बिल कहाँ मिलेगा,माझे प्रीवीअस बिल पेमेंट कोठे मिळेल,postpaid bill payment  v1
+Where can I see my bill payment history,मैं अपना बिल पेमेंट का हिस्ट्री कहां देख सकता हूं,माझे बिल पेमेंट हिस्टरी मी कुठे पाहू शकतो,postpaid bill payment  v1
+What is my last bill,मेरा लास्ट बिल क्या है,माझे लास्ट बिल काय आहे,postpaid bill payment  v1
+i want to check my previous bills,मैं अपने पिछले बिल्स देखना चाहता हूँ,मला माझे प्रीवीअस बिल्स पाहायचे आहेत,postpaid bill payment  v1
+details of my past bills,मेरे पिछले बिल्स के डिटेल्स,माझ्या जुन्या बिल्सचे डिटेल्स,postpaid bill payment  v1
+show me my recharge history,मुझे अपना रिचार्ज हिस्ट्री दिखाओ,मला रिचार्ज हिस्ट्री दाखवा माझा,prepaid recharge history v1
+do you have my last recharge date,क्या आपके पास मेरा लास्ट रिचार्ज हिस्ट्री है,माझी लास्ट रिचार्ज डेट आहे का आपल्याकडे?,prepaid recharge history v1
+I want to view my last recharge details,मैं अपना लास्ट रिचार्ज डिटेल्स देखना चाहता हूं,मला लास्ट रिचार्ज डिटेल्स पहायचा आहे माझा,prepaid recharge history v1
+i want to know my previous recharge details,मैं अपना लास्ट रिचार्ज डिटेल्स जानना चाहता हूं,मला माझा प्रीवीअस रिचार्ज डिटेल्स पाहिजे,prepaid recharge history v1
+details of my past recharge,मेरे पास्ट रिचार्ज का डिटेल्स,माझ्या पास्ट रिचार्जचे डिटेल्स,prepaid recharge history v1
+recharges done for my account,मेरे अकाउंट पर किये गए रिचार्ज,माझ्या अकाउंटवर केलेले रिचार्जिस,prepaid recharge history v1
+i want to see all my recharge payments,मैं अपने सभी रिचार्ज पेमेंट्स देखना चाहता हूं,मला माझे सगळे रिचार्ज पेमेंट्स पहायचे आहेत,prepaid recharge history v1
+can you show me my sms details,क्या आप मुझे मेरे एसएमएस के डिटेल्स दिखा सकते हैं,मला माझे एसएमएस डिटेल्स दाखवू शकता का आपण,sms usage v1
+check sms usage on my jio number,मेरे जियो नंबर पर एसएमएस का यूसेज चैक करें,माझ्या जियो नंबरवर एसएमएस यूसेज चेक करा,sms usage v1
+what is my sms usage,मेरे एसएमएस यूसेज कितना है,माझा एसएमएस यूसेज काय आहे,sms usage v1
+i want to know my sms usage,मैं मेरा एसएमएस यूसेज जानना चाहता हूं,मला माझा एसएमएस यूसेज जाणून घ्यायचा आहे,sms usage v1
+can you tell me my sms usage,क्या आप मुझे मेरा एसएमएस यूसेज बता सकते हैं,आपण मला माझा एसएमएस यूसेज सांगू शकाल का?,sms usage v1
+can you tell me my message usage,क्या आप मुझे मेरा मैसेज यूसेज बता सकते हैं,आपण मला माझा मेसेज यूसेज सांगू शकता का?,sms usage v1
+can you tell me my text usage,क्या आप मुझे मेर टेक्स्ट यूसेज बता सकते हैं,आपण मला माझा टेक्स्ट यूसेज सांगू शकता का?,sms usage v1
+text usage of my mobile,मेरे मोबाइल का टेक्स्ट यूसेज,माझ्या मोबाइलचा टेक्स्ट यूसेज,sms usage v1
+message usage of my phone,मेरे फोन का मैसेज यूसेज,माझ्या फोनचा मेसेज यूसेज,sms usage v1
+what is my recent bill,मेरा रीसेंट बिल क्या है,माझा रीसन्ट बिल काय आहे,view my bill v1
+current bills of my jio number,मेरे जियो नंबर के करंट बिल्स,माझ्या जिओ नंबरचे करंट बिल्स,view my bill v1
+can you please open my jio bills,क्या आप मेरे जियो बिल्स ओपन कर सकते हैं प्लीज,माझे जीयो बिल्स ओपन करू शकता का प्लीज़,view my bill v1
+Tell me my latest bill,मुझे मेरा लेटेस्ट बिल दिखाइए,मला माझे लेटेस्ट बिल सांगा,view my bill v1
+I want to view myjio bill,मैं जियो बिल देखना चाहता हूं अपना,मला मायजिओ बिल पहायचे आहे,view my bill v1
+When is my plan expiring,मेरी प्लान कब एक्स्पाइअर हो रहा है,माझा प्लॅन कधी एक्स्पाइअर होणार,view my plan expiry v2
+Tell me about my plan expiry date,मुझे मेरे प्लान का एक्स्पाइरी डेट बताएं,माझ्या प्लॅनचा एक्स्पाइअरी डेटबद्दल मला सांगा,view my plan expiry v2
+Can you show me my plan validity,क्या आप मुझे मेरे प्लान की वैलिडिटी बता सकते हैं,आपण मला माझ्या प्लॅनची वॅलिडिटी दाखवू शकता?,view my plan expiry v2
+validity of my data plan,मेरे डेटा प्लान की वैलिडिटी,माझ्या डेटा प्लॅनचा वॅलिडिटी,view my plan expiry v2
+Tell me a way to view my present plan,मैं अपना प्रेजेंट प्लान कैसे देख सकता हूँ,माझा प्रेसेंट प्लॅन पाहण्याचा उपाय सांगा,view my plan v1
+can you please show my plans,क्या आप मुझे मेरे प्लान्स दिखा सकते हैं प्लीज,माझे प्लॅन्स दाखवू शकाल का तुम्ही,view my plan v1
+tell me about my data pack,मुझे मेरे डेटा पैक के बारे में बताओ,माझ्या डेटा पॅकबद्दल सांगा मला,view my plan v1
+what is my plan name,मेरे प्लान का नाम क्या है,माझ्या प्लॅनचा नाव काय आहे,view my plan v1
+what is my current plan,मेरा करंट प्लान क्या है,माझा करंट प्लॅन काय आहे,view my plan v1
+I want to see my detailed usage,मैं अपना डिटेल्ड यूसेज देखना चाहता हूं,मला माझा डिटेल्ड यूसेज पहायचे आहे,view my statement v1
+i want to see my phone statement,मैं फोन स्टेटमेंट देखना चाहता हूं अपना,मला माझा फोनचा स्टेटमेंट बघायचा आहे,view my statement v1
+can you tell me my voice usage,क्या आप मेरा वॉइस यूसेज बता सकते हैं मुझे,मला माझा वॉइस यूसेज सांगू शकता काय आपण,voice usage v2
+How to activate IR postpaid plan,आईआर पोस्टपेड प्लान को कैसे एक्टिवेट करें,आयआर पोस्टपेड प्लॅन कसे ऐक्टिवैट करावे,activate ir postpaid connection v1
+What is IR postpaid plan,क्या है आईआर पोस्टपेड प्लान,काय आहे आयआर पोस्टपेड प्लॅन,activate ir postpaid connection v1
+Help me in activating IR postpaid connection,मेरी मदद करें आईआर पोस्टपेड कनेक्शन को एक्टिवेट करने में,माझी मदत करा आयआर पोस्टपेड कनेक्शन ऐक्टिवैट करण्यात,activate ir postpaid connection v1
+Tell me about activation of postpaid IR plan,मुझे पोस्टपेड आईआर प्लान की एक्टिवेशन के बारे में बताएं,पोस्टपेड आयआर प्लॅनच्या ऐक्टिवैशनबद्दल सांगा,activate ir postpaid connection v1
+Is a postpaid plan for IR available,पोस्टपेड प्लान अवेलेबल है आईआर के लिए,आयआरसाठी पोस्टपेड प्लॅन अवैलबल आहे का,activate ir postpaid connection v1
+Guide me in activating my IR postpaid connection,मेरे आईआर पोस्टपेड कनेक्शन को एक्टिवेट करने में मुझे गाइड करें,माझा आयआर पोस्टपेड कनेक्शन ऐक्टिवैट करण्यासाठी मला गाइड करा,activate ir postpaid connection v1
+Activate postpaid IR on my phone,मेरे फोन पर पोस्टपेड आईआर एक्टिवेट करें,माझ्या फोनवर पोस्टपेड आयआर ऐक्टिवैट करा,activate ir postpaid connection v1
+Activate IR service on my postpaid plan,मेरे पोस्टपेड प्लान पर आईआर सर्विस एक्टिवेट करें,माझ्या पोस्टपेड प्लॅनवर आयआर सर्विस ऐक्टिवैट करा,activate ir postpaid connection v1
+How to activate IR prepaid plan,आईआर प्रीपेड प्लान को कैसे एक्टिवेट करें,आयआर प्रीपेड प्लॅन कसा ऐक्टिवैट करायचा,activate ir prepaid connection v1
+What is IR prepaid plan,क्या है आईआर प्रीपेड प्लान,आयआर प्रीपेड प्लॅन काय आहे?,activate ir prepaid connection v1
+what is international roaming activation process,क्या है इंटरनेशनल रोमिंग एक्टिवेशन का प्रोसेस,काय आहे इंटरनॅशनल रोमिंग ऐक्टिवैशन प्रोसेस,activate ir service v1
+I want to pay my bill,मैं बिल भरना चाहता हूं अपना,मला माझा बिल भरायचं आहे,pay my bill v1
+How can I recharge a jio number,मैं जियो नंबर कैसे रिचार्ज करूँ,मी जिओ नंबर कसा रिचार्ज करू,recharge another number v1
+I would like to recharge my number,मैं अपना नंबर रिचार्ज करना चाहता हूँ,मला माझा नंबर रिचार्ज करायचा आहे,recharge another number v1
+I want to recharge an account,मैं एक अकाउंट रिचार्ज करना चाहता हूं,मला एक अकाउंट रिचार्ज करायचा आहे,recharge another number v1
+Tell me how to recharge any jio phone number,कोई भी जियो फोन नंबर को कैसे रिचार्ज कर सकते हैं,कोणताही जीयो फोन नंबर कसा रिचार्ज करावा ते मला सांगा,recharge another number v1
+I want to recharge my number,मैं अपना नंबर रिचार्ज करना चाहूंगा,माझा नंबर रिचार्ज करायचा आहे मला,recharge another number v1
+I want international roaming pack,मुझे इंटरनेशनल रोमिंग का पैक चाहिए,मला इंटरनॅशनल रोमिंग पॅक पाहिजे,recharge an international roaming plan v1
+How can I recharge with international roaming plan,मैं इंटरनेशनल रोमिंग प्लान के साथ कैसे रिचार्ज करूँ,इंटरनॅशनल रोमिंग प्लॅनबरोबर मी रिचार्ज कसा करू शकतो,recharge an international roaming plan v1
+Tell me the procedure to recharge IR pack,मुझे आईआर पैक रिचार्ज करने का प्रोसीजर बताओ,आयआर पॅक रिचार्ज करण्याचा प्रोसीजर सांगा मला,recharge an international roaming plan v1
+Help me in recharging my IR plan,आईआर प्लान को रिचार्ज करने में मेरी मदद कीजिए,माझा आयआर प्लॅन रिचार्ज करण्यात मदत करा मला,recharge an international roaming plan v1
+tell me about ir,मआईआर के बारे में बताओ मुझे,मला आयआर बद्दल सांगा,recharge an international roaming plan v1
+get me ir plans of jio,मुझे जियो की आईआर प्लान्स चाहिए,मला जिओचे आयआर प्लॅन्स द्या,recharge an international roaming plan v1
+Tell me how to use 4g data voucher,४ जी डेटा वाउचर कैसे यूज़ करते है बताएं,४ जी डेटा वाउचर कसे वापरायचे ते मला सांगा,recharge with 4g data voucher v1
+please tell me about data plan,मुझे डेटा प्लान के बारे में बताएं प्लीज,प्लीज़ मला डेटा प्लॅनबद्दल सांगा,recharge with 4g data voucher v1
+tell me about jio data plan,मुझे जियो डेटा प्लान के बारे में बताएं,मला जिओ डेटा प्लॅनबद्दल सांगा,recharge with 4g data voucher v1
+I am not able to use international roaming,मैं इंटरनेशनल रोमिंग यूज़ नहीं कर पा रहा हूँ,मला इंटरनॅशनल रोमिंग वापरायला होत नाही,activate ir service v1
+I'm unable to make calls on my number,मैं अपने नंबर पर कॉल नहीं कर पा रहा हूँ,मी माझ्या नंबरवर कॉल करू शकत नाही,check may voice status v1
+i am not getting any network what do i do,मुझे नेटवर्क नहीं मिल रहा है मैं क्या करूँ?,मला कोणताही नेटवर्क मिळत नाही मी काय करू,check signal strength v2
+what is my wifi usage,मेरा वाईफाई यूसेज क्या है,माझा वायफाय यूसेज काय आहे,wifi usage v1
+Cannot recharge my jio account,मेरा जियो अकाउंट रिचार्ज नहीं हो रहा है,माझा जीयो अकाउंट रिचार्ज करू शकत नाही,recharge failed v1
+current status of my jio plans,मेरे जियो प्लान क करंट स्टेटस,माझ्या जिओ प्लॅन्सचा करंट स्टेटस,view my plan v1
+check my account statement,मेरा अकाउंट स्टेटमेंट देखिये,माझा अकाउंट स्टेटमेंट चेक करा,view my statement v1
+can you check if my wifi is on,क्या आप देख सकते हैं यदि मेरा वाईफाई चालू है या नहीं,माझी वायफाय चालू आहे का ते चेक कराल का,check wifi connection v1
+my internet speed is slow,मेरा इंटरनेट स्पीड स्लो है,माझा इंटरनेट स्पीड स्लो आहे,mobile data intro v1
+check my internet pack details,मेरे इंटरनेट पैक के डिटेल्स चेक करें,माझे इंटरनेट पॅक डिटेल्स चेक करा,view my plan v1
+what is the validity of my internet pack,मेरे इंटरनेट पैक की वैलिडिटी क्या है,माझ्या इंटरनेट पॅकची वॅलिडिटी काय आहे,view my plan expiry v2
+what is my jionet data usage,क्या है मेरे जियोनेट डेटा का यूसेज,माझा जिओनेट डेटा यूसेज काय आहे,wifi usage v1
+i want to know about ir,मैं आईआर के बारे में जानना चाहता हूं,मला आयआर बद्दल माहिती द्या,recharge an international roaming plan v1
+i want to know about international roaming pack,मैं इंटरनेशनल रोमिंग पैक के बारे में जानना चाहता हूं,मला इंटरनॅशनल रोमिंग पॅकबद्दल माहिती द्या,recharge an international roaming plan v1
+check my data balance,मेरा डेटा बैलेंस चेक करें,माझा डेटा बॅलेन्स चेक करा,data usage v1
+jio sim is not in range,जियो सिम रेंज में नहीं है,जिओ सिम रेंजमध्ये नाही,check signal strength v2
+my data is not working,मेरा डेटा काम नहीं कर रहा है,माझा डेटा काम करत नाही,mobile data intro v1
+my jio internet is not working,काम नहीं कर रहा है मेरा जियो इंटरनेट,माझा जिओ इंटरनेट काम करत नाही,mobile data intro v1
+my internet is not working,मेरा इंटरनेट काम नहीं कर रहा है,माझा इंटरनेट काम करत नाही,mobile data intro v1
+how can i know if my phone is a 4g device,मेरा फोन ४ जी डिवाइस है मुझे कैसे पता चलेगा,हे मला कसे कळेल कि माझा फोन ४ जी डिवाइस आहे,check volte compatibility v1
+jio net usage on my jio number,जियो नेट यूसेज मेरे जियो नंबर पर,माझ्या जिओ नंबरवर जिओ नेट युसेज,wifi usage v1
+tell me about isd pack,मुझे आईएसडी पैक के बारे में बताएं,आयएसडी पॅक बद्दल सांगा,recharge with isd plan v1
+my data connection is very poor,मेरा डेटा कनेक्शन बहुत खराब है,माझा डेटा कनेक्शन खूप खराब आहे,mobile data intro v1
+my data connection is weak,मेरा डेटा कनेक्शन वीक है,माझा डेटा कनेक्शन वीक आहे,mobile data intro v1
+i am getting slow speed,मुझे स्लो स्पीड मिल रही है,मला स्लो स्पीड भेटत आहे,mobile data intro v1
+view account statement for my jio number,मेरे जियो नंबर का अकाउंट स्टेटस देखें,माझ्या जिओ नंबरसाठी अकाउंट स्टेटमेंट पहा,view my statement v1
+how much jionet data i have used,मैंने कितना जियोनेट डेटा इस्तेमाल किया है,मी जिओनेट डेटा किती यूज़ केला आहे,wifi usage v1
+What is my plan?,मेरा प्लान कोनसा है?,माझा प्लॅन काय आहे,view my plan v1
+What is my ongoing plan,कोनसा है मेरा ऑनगोइंग प्लान,माझा ऑनगोइंग प्लॅन काय आहे,view my plan v1
+Get me my last recharge,मुझे मेरा लास्ट रिचार्ज दिखाएं,मला माझे लास्ट रिचार्ज हवा,prepaid recharge history v1
+I want to see my Jio Net data usage,मैं अपना जियो नेट डेटा यूसेज देखना चाहता हूं,मला माझा जिओ नेट डेटा यूसेज पहायचा आहे,wifi usage v1
+can you show me wifi usage on my jio number,क्या आप मुझे वाईफाई यूसेज दिखा सकते हैं मेरे जियो नंबर का,माझ्या जीयो नंबरवर मला वायफाय यूसेज दाखवू शकता आपण,wifi usage v1
+where can I find my bills,मुझे मेरे बिल्स कहां मिलेंगे,मला माझे बिल्स कुठे सापडतील,view my bill v1
+where can i find booster plans,मुझे बूस्टर प्लान्स कहां मिलेंगे,बूस्टर प्लॅन्स कुठे सापडतील,recharge with 4g data voucher v1
+can I see my recharge history,क्या मैं अपना रिचार्ज हिस्ट्री देख सकता हूं,मी माझा रिचार्ज हिस्टरी पाहू शकतो काय,prepaid recharge history v1
+how to check my previous recharges,मेरे प्रीवियस रिचार्जिस कैसे चेक करूँ,माझे प्रीवीअस रिचार्जिस कसे शोधू,prepaid recharge history v1
+Display my past bills,मेरे पुराने बिल्स डिस्प्ले कीजिए,माझे जुने बिल्स दाखवा,view my bill v1
+details of my account statement,मेरे अकाउंट स्टेटमेंट के डिटेल्स,माझ्या अकाउंट स्टेटमेंटचे डिटेल्स,view my statement v1
+Tell me my recharge plan,मुझे मेरा रिचार्ज प्लान बताएं,मला माझा रिचार्ज प्लॅन सांगा,view my plan v1
+show me my account statement,मुझे मेरा अकाउंट स्टेटमेंट दिखाओ,मला माझा अकाउंट स्टेटमेंट दाखवा,view my statement v1
+do you have my last bill for my jio number,क्या आपके पास मेरे जियो नंबर का लास्ट बिल है,माझ्या जियो नंबरचा लास्ट बिल आहे का,view my bill v1
+i want to view my bill,मैं बिल देखना चाहता हूं अपना,मला बिल बघायचा आहे माझा,view my bill v1
+Pay bill for my account,मेरे अकाउंट का बिल भरें,माझ्या अकाउंटचा बिल भरा,pay my bill v1
+i want to see list of booster plans,मैं बूस्टर प्लान्स का लिस्ट देखना चाहता हूं,मला बूस्टर प्लॅन्सची लिस्ट पहायची आहे,recharge with 4g data voucher v1
+Can you show me my current plan,क्या आप मुझे मेरी करंट प्लान दिखा सकते हैं,आपण मला माझा करंट प्लॅन दाखवू शकाल का,view my plan v1
+what is my jionet wifi usage,मेरा जियोनेट वाईफ़ाई यूसेज कितना है,माझा जियोनेट वायफाय यूसेज काय आहे,wifi usage v1
+Can you tell me my wifi usage,क्या आप मेरे वाईफाई का यूसेज बता सकते हैं मुझे,आपण मला माझा वायफाय यूसेज सांगणार का,wifi usage v1
+Wifi usage of my phone,मेरे फोन का वाईफ़ाई यूसेज,माझ्या फोनचा वायफाय यूसेज,wifi usage v1
+can you please open my statement,क्या आप मेरा स्टेटमेंट खोल सकते हैं प्लीज,कृपया माझा स्टेटमेंट ओपन करणार का,view my statement v1
+Tell me about my plan,मुझे मेरी प्लान के बारे में बताएं,माझ्या प्लॅनबद्दल सांगा,view my plan v1
+show my data plan,मेरा डेटा प्लान दिखाओ,माझा डेटा प्लॅन दाखवा,view my plan v1
+please tell me a way to view my jio statement,मैं अपने जियो के स्टेटमेंट्स को कैसे देख सकता हूँ प्लीज बताएं,माझा जियो स्टेटमेंट पाहण्याचा एक उपाय मला सांगा,view my statement v1
+can you please show my wifi usage,क्या आप मेरे वाईफाई का यूसेज दिखा सकते हैं प्लीज,आपण माझा वायफाय यूसेज दाखवू शकता का,wifi usage v1
+How to activate IR on jio number,मैं आईआर को जियो नंबर पर कैसे एक्टिवेट करूँ,जिओ नंबरवर आयआर कसे ऐक्टिवैट करावे,activate ir service v1
+What is IR activation process,क्या है आईआर एक्टिवेशन प्रोसेस,आयआर ऐक्टिवैशन प्रोसेस काय आहे,activate ir service v1
+Help me in activating IR prepaid connection,आईआर प्रीपेड कनेक्शन को एक्टिवेट करने में मेरी मदद करें,मला मदत करा आयआर प्रीपेड कनेक्शन ऐक्टिवैट करण्यात,activate ir prepaid connection v1
+Tell me about activation of prepaid IR plan,मुझे प्रीपेड आईआर प्लान की एक्टिवेशन के बारे में बताएं,प्रीपेड आयआर प्लॅनच्या ऐक्टिवैशनबद्दल सांगा,activate ir prepaid connection v1
+Is a prepaid plan for IR available,क्या प्रीपेड प्लान अवेलेबल है आईआर के लिए,आयआरसाठी प्रीपेड प्लॅन अवैलबल आहे का,activate ir prepaid connection v1
+Guide me in activating my IR prepaid connection,मेरे आईआर प्रीपेड कनेक्शन को एक्टिवेट करने में मेरी मदद करें,माझा आयआर प्रीपेड कनेक्शन ऐक्टिवैट करण्यात मला गाइड करा,activate ir prepaid connection v1
+Activate prepaid IR on my phone,मेरे फोन पर प्रीपेड आईआर एक्टिवेट करें,माझ्या फोनवर प्रीपेड आयआर ऐक्टिवैट करा,activate ir prepaid connection v1
+Activate IR service on my prepaid plan,मेरे प्रीपेड प्लान पर आईआर सर्विस एक्टिवेट करें,माझा प्रीपेड प्लॅनवर आयआर सर्विस ऐक्टिवैट करा,activate ir prepaid connection v1
+what is international roaming,क्या है इंटरनेशनल रोमिंग,इंटरनॅशनल रोमिंग काय आहे,recharge an international roaming plan v1
+How can I recharge with ISD plan,मैं आईएसडी प्लान के साथ रिचार्ज कैसे करूँ,मी आयएसडी प्लॅनसह रिचार्ज कसे करू,recharge with isd plan v1
+I was unable to recharge my number,मैं अपना नंबर रिचार्ज नहीं कर पा रहा था,मी माझा नंबर रिचार्ज करू शकलो नाही,recharge failed v1
+I want to recharge with 4g Data voucher,मुझे  ४ जी डेटा वाउचर के साथ रिचार्ज करना है,मला ४ जी डेटा वाउचरसह रिचार्ज करायचा आहे,recharge with 4g data voucher v1
+Tell me how to recharge my ISD plan,मुझे बताएं कि आईएसडी प्लान को रिचार्ज कैसे करें,माझा आयएसडी प्लॅन कसा रिचार्ज करावा ते सांगा,recharge with isd plan v1
+I want international calling package,मुझे इंटरनेशनल कॉलिंग पैकेज चाहिए,मला इंटरनॅशनल कॉलिंग पॅकेज पाहिजे,recharge with isd plan v1
+Give me the procedure to recharge ISD plan,मुझे आईएसडी प्लान रिचार्ज करने की प्रोसीजर चाहिए,आयएसडी प्लॅन रिचार्ज करण्याचा प्रोसीजर द्या मला,recharge with isd plan v1
+Help me in recharging with ISD plan,आईएसडी प्लान रिचार्ज करने में मेरी मदद करें,आयएसडी प्लॅनसह रिचार्ज करण्यात मदत करा मला,recharge with isd plan v1
+get me isd plans of jio,मुझे जियो की आईएसडी प्लान्स चाहिए,मला जिओच्या आयएसडी प्लॅन आणा,recharge with isd plan v1
+tell me about international calling plan,मुझे इंटरनेशनल कॉलिंग प्लान्स के बारे में बताएं,इंटरनॅशनल कॉलिंग प्लॅनबद्दल सांगा मला,recharge with isd plan v1
+Can you please tell me the international roaming process for activation?,क्या आप प्लीज मुझे बता सकते हैं इंटरनेशनल रोमिंग का एक्टिवेशन प्रोसेस,प्लीज़ आपण मला सांगणार काय आहे इंटरनॅशनल रोमिंग ऐक्टिवैशन प्रोसेस,activate ir service v1
+I have already applied for the international roaming so tell me the activation process,मैंने ऑलरेडी इंटरनेशनल रोमिंग के लिए अप्लाई कर दिया है तो उसका एक्टिवेशन प्रोसेस बता दीजिये,मी ऑलरेडी इंटरनॅशनल रोमिंगसाठी अप्लाइ केली तर मला ऐक्टिवैशन प्रोसेस सांगा,none
+Do help me as I am finding it difficult to use the international roaming,मुझे  इंटरनेशनल रोमिंग यूज़ करने में डिफीकल्टी ही रही है इसीलिए मेरी हेल्प करें,मला मदत करा कारण मला इंटरनॅशनल रोमिंग वापरायला अडचण होत आहे,activate ir service v1
+I am not able to use international roaming because I haven't applied for it,मैं इंटरनेशनल रोमिंग यूज़ नहीं कर सकता क्यूंकि मैंने अप्लाई ही नहीं किया,मला इंटरनॅशनल रोमिंग वापरायला होत नाही कारण मी अप्लाइ नाही केला,activate ir service v1
+How to start IR on jio number,मैं जियो नंबर पर आईआर कैसे शुरू करूँ,जिओ नंबरवर आयआर कसा स्टार्ट करायचा,activate ir service v1
+How to deactivate IR on jio number,मैं जियो नंबर पर आईआर डीएक्टिवेट कैसे करूँ,जिओ नंबरवर आयआर कसे डीऍक्टिवेट करायचे,none
+So tell me what is IR activation procedure,तो बताइये आईआर एक्टिवेशन प्रोसीजर क्या है,तर मला सांगा आयआर ऐक्टिवैशन प्रोसीजर काय आहे,activate ir service v1
+If you could please tell me the plans that are available for my jio number,अगर आप मुझे बता दो की मेरे जियो नंबर के लिए कोनसे प्लान्स अवेलेबल हैं,तुम्ही मला सांगणार माझ्या जिओ नंबरसाठी काय प्लॅन्स अवैलबल आहे,browse plans v1
+What schemes are available for my number,कौन से स्कीम्स अवेलेबल हैं मेरे नंबर के लिए,माझ्या जिओ नंबरसाठी काय स्कीम्स अवैलबल आहे,browse plans v1
+I wanted to gift my girlfriend something so what plans are available for Jio,मैं अपनी गर्लफ्रेंड को कुछ गिफ्ट देना चाहता हूँ तो जियो के लिए क्या प्लान्स अवेलेबल हैं,मला माझ्या गर्लफ्रेंडला गिफ्ट आणायचे आहे तर माझ्या जिओ नंबरसाठी काय प्लॅन्स अवैलबल आहे,browse plans v1
+I want to know about Jio plans so can you please help me,मैं जियो प्लान्स के बारे में पता लगाना चाहता हूं तो आप प्लीज मेरी मदद कीजिये,मला जिओच्या प्लॅन्सबद्दल जाणून घ्यायचे आहे तर मला प्लीज़ मदत करा,browse plans v1
+I need to know about some jio plans,मुझे जियो प्लान्स के बारे में कुछ समझना है,मला जिओच्या प्लॅन्सबद्दल काही माहिती हवी,browse plans v1
+I already know about Jio plans,मुझे जियो प्लान्स के बारे में पहले से ही पता है,मला ऑलरेडी जिओ प्लॅन्सबद्दल माहित आहे,none
+I don't wish to know about Jio plans,मैं जियो प्लान्स के बारे में कुछ नहीं जानना चाहता,मला जिओच्या प्लॅन्सबद्दल काही माहिती नाही पाहिजे,none
+Please update me on my account status,मुझे मेरे अकाउंट स्टेटस पर अपडेट करें प्लीज,माझ्या अकाउंट स्टेटसवर मला अपडेट करा प्लीज़,check account status v2
+I forgot what my account status was,मैं भूल गया की मेरा अकाउंट स्टेटस क्या था,मी विसरलो माझा अकाउंट स्टेटस काय होता,check account status v2
+want my Jio account history,मुझे मेरा जियो अकाउंट हिस्ट्री चाहिए,माझी जिओ अकाउंट हिस्टरी पाहिजे,check account status v2
+I am travelling to Delhi so I wanted Jio account history,मैं दिल्ली जा रहा हूँ इसीलिए मुझे जियो अकाउंट का हिस्ट्री चाहिए,मी दिल्लीला चाललो म्हणून माझी जिओ अकाउंट हिस्टरी पाहिजे,check account status v2
+I wish to know the status of my jio connection. Can you help?,मैं अपने जियो कनेक्शन का स्टेटस जानना चाहता हूँ तो आप मदद करेंगे?,मला माझ्या जिओ कनेक्शनचा स्टेटस पाहिजे. आपण हेल्प करणार?,check account status v2
+I've checked my account for the data balance,मैंने डेटा बैलेंस के लिए अपना अकाउंट स्टेटस चेक कर लिया है,डेटा बॅलन्ससाठी मी माझा अकाउंट चेक केला आहे,none
+Verify my account,मेरा अकाउंट वेरीफाई कीजिये,माझा अकाउंट वेरिफाय करा,check account status v2
+Close my account,मेरा अकाउंट बंद करना,माझा अकाउंट बंद करा,none
+Hey can you please check my jio number signal,हे आप मेरा जियो नंबर का सिग्नल चेक करेंगे प्लीज,हे माझ्या जिओ नंबर चा सिग्नल आपण चेक करू शकता काय प्लीज़,check signal strength v2
+Check my network on my Jio number,मेरे जियो नंबर का नेटवर्क चेक कीजिये,माझ्या जिओ नंबरवर माझा नेटवर्क चेक करा,check signal strength v2
+I was supposed to get fast network in jio,मुझे जियो पर फ़ास्ट नेटवर्क मिलने वाला था,मला जिओवर फास्ट नेटवर्क भेटणार होता,check signal strength v2
+Want to close my account as I'm getting slow network on Jio,मुझे मेरा अकाउंट क्लोज करना है क्यूंकि मुझे जियो पर बहुत स्लो नेटवर्क मिल रहा है,मला माझा अकाउंट क्लोज़ करायचा आहे कारण मला स्लो नेटवर्क मिळत आहे,check signal strength v2
+I'm not getting any network can you please look into this?,मुझे कुछ भी नेटवर्क नहीं मिल रहा है क्या आप ज़रा मदद करेंगे?,मला काहीच नेटवर्क नाही मिळत आपण याच्यात मदत कराल काय?,check signal strength v2
+My jio sim was not in network range,मेरा जियो सिम नेटवर्क रेन्ज में नहीं था,माझा जिओ सिम रेंजमध्ये नव्हता,check signal strength v2
+My jio sim is not getting any range,मेरे जियो सिम कोई रेन्ज नहीं मिल रही है,माझ्या जिओ सिमला काहीच रेन्ज मिळत नाही,check signal strength v2
+Please help I am not able to connect calls,प्लीज मेरी मदद करें मैं कॉल्स कनेक्ट नहीं कर पा रहा हूँ,प्लीज़ हेल्प करा मला मी कॉल कनेक्ट करू शकत नाही,check volte compatability v2
+I'm unable to make calls on other numbers please will you be able to help?,क्या आप मेरी मदद कर सकते हैं मैं दूसरे नम्बरों पर कॉल्स नहीं कर पा रहा हूँ,मी दुसऱ्या नंबरवर कॉल करू शकत नाही आपण मदत करू शकाल काय?,check volte compatability v2
+I want to stop making calls,मैं बंद करना चाहता हूँ कॉल्स करना,मला बंद कराचे आहे कॉल करायला,none
+I am not able to send SMS what do I do,मैं एसएमएस नहीं भेज पा रहा हूँ मैं क्या करू,मी एसएमएस पाठवू शकत नाही मी काय करायचं,check volte compatability v2
+I am not able to start voice calls,मैं वॉइस कॉल्स स्टार्ट नहीं कर पा रहा हूँ,मला वॉइस कॉल स्टार्ट करायला होत नाही,check volte compatability v2
+I'm not able to make calls because of heavy rainfall in Mumbai,मैं मुंबई में भारी वर्षा के कारन कॉल्स नहीं कर पा रहा हूँ,मला कॉल्स करायला होत नाही मुंबईत मुसळधार पावसामुळे,check volte compatability v2
+I won't be able to make calls from my Jio Sim if I don't activate the service,अगर मैंने अपना सर्विस एक्टिवेट नहीं किया तो मैं जियो सिम से कॉल्स नहीं कर पाउँगा,मी माझ्या जिओ सिमवरुन कॉल करू शकणार नाही जर मी सर्विस ऍक्टिवेट केली नाही तर,check volte compatability v2
+Please help me with my daily data balance,प्लीज मेरी मदद कीजिये मेरे डेली डाटा बैलेंस में,माझ्या डेली डेटा बॅलेन्स मध्ये माही हेल्प करा प्लीज़,data usage v1
+How much of data have I finished today,मैंने आज कितना डेटा ख़तम कर दिया,मी आज किती डेटा फिनिश केला,data usage v1
+I don't want to know what my data balance is,मैं अपना डेटा बैलेंस नहीं जानना चाहता हूँ,माझ्या डेटा बॅलन्सबद्दल मला काही माहिती नाही पाहिजे,none
+I need your help with my internet balance,मेरा इंटरनेट बैलेंस जानने में मुझे आपकी हेल्प लगेगी,मला तुमची हेल्प पाहिजे इंटरनेट बॅलेन्स बद्दल,data usage v1
+I have already seen my mobile data balance,मैंने अपना मोबाइल डेटा बैलेंस पहले से ही देख लिया है,मी माझा मोबाइल डेटा ऑलरेडी बघितला,none
+Someone robbed my phone so I wanted to see my mobile data balance,किसीने मेरा फ़ोन चोरी कर लिया है इसीलिए मैं अपना मोबाइल डेटा बैलेंस देखना चाहता हूँ,कोणी तरी माझा फोन चोरी केला म्हणून मला माझा मोबाइल डेटा बॅलेन्स पहायचा आहे,data usage v1
+Open my data balance,मेरा डेटा बैलेंस ओपन करो,माझा डेटा बॅलेन्स ओपन करा,data usage v1
+I need your help on my internet as its not working on my Jio number,मुझे आपकी मदद चाहिए क्यूंकि मेरे जियो नंबर पर इंटरनेट नहीं चल रहा है,मला आपली हेल्प पाहिजे कारण माझ्या जिओ नंबरवर इंटरनेट काम करत नाही,mobile data intro v1
+I'm not able to browse data,में डेटा ब्राउज़ नहीं कर पा रहा हूँ,मी डेटा ब्राउझ करू शकत नाही,mobile data intro v1
+My data isn't working so stop the service,मेरा डेटा नहीं चल रहा इसलिए मेरी सर्विस बंद कर दो,माझा डेटा काम करत नाही म्हणून माझी सर्विस स्टॉप करा,none
+My internet isn't working as I forgot to pay the bill,मेरा इंटरनेट काम नहीं कर रहा है क्यूंकि मैं बिल भरना भूल गया,माझा इंटरनेट काम करत नाही कारण मी बिल भरायला विसरलो,mobile data intro v1
+My data network is very poor,मेरा डेटा नेटवर्क बहुत खराब है,माझा डेटा नेटवर्क खूपच खराब आहे,mobile data intro v1
+My data connection was weak but now it's better,मेरा डेटा कनेक्शन वीक था पर अब बेटर है,माझा डेटा कनेक्शन वीक होता पण आता बेटर आहे,mobile data intro v1
+Please help I am getting slow speed on mobile,प्लीज मेरी मादा करो मुझे मोबाइल पर स्लो स्पीड मिल रही है,माझी हेल्प करा कारण मला स्लो स्पीड भेटत आहे,mobile data intro v1
+Tell me how to stop using a 4g data voucher,४ जी डेटा वाउचर के यूसेज को कैसे स्टॉप करें ये बताएं,मला सांगा ४ जी डेटा वाउचर यूज़ करायला कसे स्टॉप करू,none
+Please tell me about the data schemes,मुझे डेटा स्कीम्स के बारे में बताएं प्लीज,मला डेटा स्कीम्सबद्दल सांगा प्लीज़,recharge with 4g data voucher v1
+Can you please help me with Jio data plan,क्या आप जियो प्लान में मेरी मदद करेंगे प्लीज,आपण माझी मदत करू शकता काय जिओ डेटा प्लॅन मध्ये,recharge with 4g data voucher v1
+I already know where to find booster plans,मैं पहले से ही जानता हूँ की बूस्टर प्लान्स कहां मिलेंगे,मला ऑलरेडी माहीत आहे कि डेटा बूस्टर कुठे शोधायचे,none
+Where do I find booster plans because I'm hospitalised,मुझे बूस्टर प्लान्स कहा मिलेंगे क्यूंकि मैं हॉस्पिटल में हूँ,मला बूस्टर प्लॅन्स कुठे भेटतील कारण मी हॉस्पिटल मध्ये आहे,recharge with 4g data voucher v1
+I want to see the list of booster plans so please help,मैं बूस्टर प्लान्स का लिस्ट देखना चाहूंगा इसीलिए प्लीज मेरी मदद कीजिये,मला बूस्टर प्लॅन्सची लिस्ट पहायची आहे म्हणून प्लीज़ हेल्प करा,recharge with 4g data voucher v1
+I want to refill with 4g Data voucher,मुझे  ४ जी डेटा वाउचर को रिफिल करना है,मला ४ जी डेटा वाउचर बरोबर रिफील करायचा आहे,recharge with 4g data voucher v1
+Tell me a way to check my present plan,एक ऐसा तरीका बताऊ जिससे मैं अपना प्रेजेंट प्लान चेक कर सकता हूँ,माझा प्रेसेंट प्लॅन चेक करायचा उपाय सांगा,view my plan v1
+Can you please deactivate my plans,क्या आप मेरे प्लान्स डीएक्टिवेट कर सकते हैं प्लीज,काय तुम्ही माझा प्लॅन डीऍक्टिवेट करू शकता प्लीज़,none
+Will you be able to tell me about my data pack please,क्या आप कृपया मुझे मेरे डेटा पैक के बारे में बता सकते हैं,तुम्ही माझ्या डेटा पॅकबद्दल मला काही सांगू शकता काय प्लीज़,view my plan v1
+what is my scheme name,मेरे स्कीम का नाम क्या है,माझ्या स्कीमचा नाव काय आहे,view my plan v1
+Please I need to see the current status of my jio plans,मैं अपने जियो प्लान्स का करंट स्टेटस देखना चाहता हूँ प्लीज,मला माझ्या जिओ प्लॅन्सची करंट स्टेटस बघायची आहे प्लीज़,view my plan v1
+You have already told me my recharge plan,आपने मुझे मेरा रिचार्ज प्लान पहले ही बताया,तुम्ही ऑलरेडी मला माझा रिचार्ज प्लॅन सांगितलं आहे,none
+Show my data plan because it is my birthday,मेरा डेटा प्लान दिखाओ क्यूंकि आज मेरा बर्थडे है,माझा डेटा प्लॅन दाखवा कारण माझा बर्थडे आहे,view my plan v1
+When did my plan expire,मेरा प्लान कब इक्स्पाइअर हुआ,माझा प्लॅन कधी एक्स्पाइअर झाला,view my plan expiry v2
+When is my plan starting,मेरा प्लान कब स्टार्ट होने वाला है,माझा प्लॅन कधी स्टार्ट होणार,none
+Will you please tell me when is my plan expiring,कृपया करके आप बताएंगे की मेरा प्लान कब इक्स्पाइअर होगा,माझा प्लॅन कधी एक्स्पाइअर होईल तुम्ही मला सांगणार काय,view my plan expiry v2
+Tell me about my IR expiry date,मुझे मेरे आईआर के एक्स्पाइरी डेट बताएं,माझ्या आयआरची एक्स्पाइअरी डेटबद्दल मला सांगा,view my plan expiry v2
+Can you show me my plan validity because I want to apply for a Pancard,क्या आप मुझे मेरी प्लान की वैलिडिटी बताएंगे मुझे पैनकार्ड के लिए अप्लाई करना है,आपण मला माझ्या प्लॅनची वॅलिडिटी दाखवू शकाल कारण मला पॅनकार्ड साठी अप्लाइ कराचा आहे,view my plan expiry v2
+Validity of my Caller Tune plan,मेरे कॉलर ट्यून की वैलिडिटी,माझ्या कॉलर ट्यून प्लॅनची वॅलिडिटी,view my plan expiry v2
+Could you provide me the validity of my internet pack,क्या आप मेरे इंटरनेट पैक की वैलिडिटी बता सकेंगे मुझे,तुम्ही मला माझ्या इंटरनेट पॅकची वॅलिडिटी देऊ शकता काय,view my plan expiry v2
+I want you to please tell me about isd pack,मैं चाहता हूं कि आप मुझे आईएसडी पैक के बारे में बताएं कृपय,मला तुम्ही आयएसडी पॅक बद्दल सांगा प्लीज़,recharge with isd plan v1
+How can I recharge with ISD plan can you help please,मैं आईएसडी प्लान के साथ कैसे रिचार्ज करूँ क्या आप कृपया मदद कर करेंगे,मी आयएसडी प्लॅनसह कसे रिचार्ज करू आपण त्यावर मदत करू शकता काय,recharge with isd plan v1
+I want to shutdown my laptop so tell me how to recharge my ISD plan,"मैं अपना लैपटॉप शटडाउन करना चाहता हूं, इसलिए मुझे बताएं कि मैं अपना आईएसडी प्लान कैसे रिचार्ज करू",मला माझा कॉम्पुटर शट्डाउन करायचा आहे तर आयएसडी प्लॅन कसे रिचार्ज करावे ते सांगा,recharge with isd plan v1
+I don't want international calling package,मुझे इंटरनेशनल कॉलिंग पैकेज नहीं चाहिए,मला इंटरनॅशनल कॉलिंग पॅकेज नाही पाहिजे,none
+It would be great if you could help me in recharging with ISD plan,बहुत अच्छा होगा यदि आप आईएसडी प्लान के रिचार्ज में मेरी मदद कर दें,आपला खूप आभार होईल जर आपण आयएसडी प्लॅनसह रिचार्ज करण्यात माझी मदत कराल,recharge with isd plan v1
+Show me isd schemes of jio,मुझे जियो के आईएसडी स्कीम्स बताएं,मला जिओच्या आयएसडी स्कीम्स दाखवा,recharge with isd plan v1
+tell me about local calling plans,मुझे लोकल कॉलिंग प्लान्स के बारे में बताएं,मला लोकल कॉलिंग प्लॅन्सबद्दल सांगा,none
+Do not show me my recharge history,मुझे मेरा रिचार्ज हिस्ट्री मत दिखाना,मला रिचार्ज हिस्ट्री दाखवू नका,none
+Do you have my previous recharge date,क्या आपके पास मेरा पुराना रिचार्ज डेट है,आपल्याकडे माझा प्रीवीअस रिचार्ज डेट आहे का,prepaid recharge history v1
+I want to play for the tournament so want to view my last recharge details,मैं टूर्नामेंट खेलना चाहता हूँ इसीलिए अपना लास्ट रिचार्ज डिटेल्स देखना चाहूंगा,मला टूर्नामेंट खेळायचा आहे म्हणून मला माझा लास्ट रिचार्ज डिटेल्स बघायचा आहे,prepaid recharge history v1
+Details of my old recharge,मेरे पुराने रिचार्ज के डिटेल्स,माझ्या ओल्ड रिचार्जचे डिटेल्स,prepaid recharge history v1
+Recharges to be done for my account,मेरे अकाउंट पर किये जाने वाले रिचार्जिस,माझ्या अकाउंटसाठी करणारे रिचार्जिंस,none
+If possible get me my last recharge please,अगर हो सके तो मुझे मेरे लास्ट रिचार्ज दिखाएं,होऊ शकेल तर मला माझे लास्ट रिचार्ज हवा,prepaid recharge history v1
+Hey could you tell me how to check my previous recharges,हे क्या आप मुझे मेरे प्रीवियस रिचारजिस दिखा सकते हैं,हे तुम्ही मला सांगू शकता माझे प्रीवीअस रिचार्जिस कसे शोधायचे,prepaid recharge history v1
+Show me my internet speed,मुझे मेरा इंटरनेट का स्पीड दिखाओ,माझ्या इंटरनेटची स्पीड दाखवा मला,check internet speed v1
+Hey I need to know what is my internet speed,हे मैं अपने इंटरनेट स्पीड के बारे मैं जानकारी चाहता हूँ,हे मला माझी इंटरनेटची स्पीड किती आहे ते जाणून घ्येयचे आहे,check internet speed v1
+Don't check my internet speed,मेरा इंटरनेट स्पीक्ड चेक मत करना,माझा इंटरनेट स्पीड चेक नका करू,none
+Have you checked my internet speed,क्या आपने मेरा इंटरनेट स्पीड चेक कर लिया है,माझ्या इंटरनेटची स्पीड तुम्ही चेक केली काय,check internet speed v1
+Is my internet speed good so I could leave for a vacation,क्या मेरा इंटरनेट स्पीड अच्छा है ताकि मैं वेकेशन पर जा सकूँ,माझी इंटरनेटची स्पीड चांगली आहे का तर मी वेकेशनला जाईन,check internet speed v1
+Can you tell me what is my data speed please,मेरा डेटा स्पीड क्या है क्या आप बता सकते हैं प्लीज,तुम्ही सांगू शकता काय आहे माझा डेटा स्पीड,check internet speed v1
+Check my connection speed,मेरे कनेक्शन की स्पीड चेक करना,माझा कनेक्शनचा स्पीड चेक करा,check internet speed v1
+Can you check if Flight Mode is activated,क्या आप चेक करेंगे यदि फ्लाइट मोड एक्टिवेटिड है या नहीं,आपण चेक करू शकता फ्लाइट मोड ऐक्टिवैट केली आहे का,check airplane mode v1
+Can you see if Airplane Mode is activated,क्या आप देखेंगे यदि एयरप्लेन मोड एक्टिवेटिड है या नहीं,तुम्ही बघू शकता काय ऐरप्लेने मोड ऐक्टिवैट केली आहे,check airplane mode v1
+Can you check if airplane mode is deactivated,क्या आप चेक करेंगे यदि एयरप्लेन मोड डीएक्टिवेटिड है या नहीं,आपण चेक करू शकता ऐरप्लेने मोड डीऐक्टिवैट केली आहे का,check airplane mode v1
+I have already checked if airplane mode is activated or not,मैंने पहले ही देख लिया है यदि एयरप्लेन मोड एक्टिवेटिड है या नहीं,मी ऑल रेडी चेक केले जर ऐरप्लेने मोड ऐक्टिवैटिड आहे का नाही,none
+Deactivate the airplane mode,एयरप्लेन मोड को डीएक्टिवेट कर दीजिये,ऐरप्लेने मोड डीऐक्टिवैट करा,none
+Please is it possible for you to check if the airplane mode is activated,कृपया आप चेक कर पाएंगे यदि एयरप्लेन मोड एक्टिवेटिड है या नहीं,प्लीज़ तुमच्यासाठी पॉसिबल आहे ऐरप्लेने मोड ऐक्टिवैट केली आहे चेक करायला,check airplane mode v1
+Can you check if the airplane mode is activated because the plane is going to crash,क्या आप चेक करेंगे यदि एयरप्लेन मोड एक्टिवेटिड है या नहीं क्यूंकि प्लेन क्रैश होने वाला है,आपण चेक करू शकता जर ऐरप्लेने मोड ऐक्टिवैट केली आहे कारण प्लेन क्रॅश होतय,check airplane mode v1
+my jio sim is not fuctioning,मेरा जियो सिम नहीं चल नहीं रहा,माझा जिओ सिम फंगक्शन करत नाही,check jio sim v1
+Do you know where to go if my jio sim isn't working,आपको पता है कहा जाना चाहिए अगर मेरा जियो सिम नहीं चलेगा तो,तुम्हाला माहित आहे कुठे जायचे जर माझा जिओ सिम काम करत नाही,check jio sim v1
+I want to check my jio sim so please help me,मैं  जियो सिम चेक करना चाहता हूं अपना तो प्लीज मेरी हेल्प करें,मला माझा जिओ सिम चेक कराचा आहे तर प्लीज़ माझी मदत करा,check jio sim v1
+I was going to check my jio sim,मैं अपना जियो सिम चेक करनेवाला था,मी जिओ सिम चेक करणार होतो,check jio sim v1
+I wanted to check my jio sim since there is a strike in Mumbai,अपना जियो मैं सिम चेक करनेवाला था क्यूंकि मुंबई में स्ट्राइक है,मला माझा जिओ सिम चेक कराचा होता कारण मुंबई मध्ये स्ट्राइक आहे,check jio sim v1
+how can i know if this sim is inactive,मुझे कैसे पता चलेगा अगर यह सिम इनएक्टिव है,माझा सिम इनऐक्टिव आहे हे मला कसे कळेल,check jio sim v1
+how can i know if this sim is proper,मुझे कैसे पता चलेगा की यह सिम सही है,माझा सिम सारखा आहे हे मला कसे कळेल,check jio sim v1
+How can i know if my mobile is a 4g device,मेरा मोबाइल ४ जी डिवाइस है मुझे कैसे पता चलेगा,हे मला कसे कळेल कि माझा मोबाइल ४ जी डिवाइस आहे,check volte compatibility v1
+How would I know if my phone is a 4g device,मुझे कैसे मालूम पड़ेगा यदि मेरा फोन ४ जी डिवाइस है,मला हे कसा कळेल कि माझा फोन ४ जी डिवाइस आहे,check volte compatibility v1
+Hey I need some help to know if my phone is a 4g device,हे मुझे आपकी मदद लगेगी जानने में यदि मेरा फोन ४ जी डिवाइस है या नहीं,हे मला तुमची हेल्प पाहिजे जाणून ग्यायला कि माझा मोबाइल ४ जी डिवाइस आहे का नाही,check volte compatibility v1
+I already know that my phone is a 4g device,मैं पहले से जानता हूँ की मेरा फोन एक ४ जी डिवाइस है,माझा फोन ४ जी डिवाइस आहे हे मला ऑलरेडी माहित आहे,none
+How to if my phone is a 4g device because the house is on a haunted hill,कैसे पता चलेगा यदि मेरा फोन ४ जी डिवाइस है क्यूंकि वह घर एक हॉन्टेड हिल पर है,कसा कळेल कि माझा फोन ४ जी डिवाइस आहे कारण ते घर हॉन्टिड हिल वर आहे,check volte compatibility v1
+How will I know if my phone is not a 4g device,मुझे कैसे मालूम पड़ेगा की मेरा फोन ४ जी डिवाइस नहीं है,मला कसे कळेल कि माझा मोबाइल ४ जी डिवाइस नाही आहे,check volte compatibility v1
+Show me paid bill information on my jio number,पेड बिल इनफार्मेशन दिखा दीजिये मेरे जियो नंबर का,पेड बिल्सचा इन्फॉर्मशन माझ्या जिओ नंबरवर मला दाखवा,postpaid bill payment  v1
+From where can I delete my previous bill payment,मेरे प्रीवियस बिल पेमेंट को मैं कहाँ से डिलीट कर सकता हूँ,प्रीवीअस बिल पेमेंट मी कुठून डिलीट करू,none
+Can you help me here I want to see my bill payment history,आप मेरी हेल्प करेंगे यहाँ मुझे अपना बिल पेमेंट हिस्ट्री देखना है,आपण माझी मदत करू शकता माझा बिल पेमेंट हिस्टरी बघण्यात,postpaid bill payment  v1
+What is my previous bill,मेरा प्रीवियस बिल क्या था,माझा प्रीवीअस बिल काय आहे,postpaid bill payment  v1
+I would love to see my last bill please,मैं अपना लास्ट बिल ज़रूर देखना चाहूंगा प्लीज,माझा लास्ट बिल बघायला मला खूप आनंद होईल,postpaid bill payment  v1
+I've already checked my previous bills,मैंने अपना प्रीवियस बिल्स पहले से ही देख लिया है,प्रीवीअस बिल्स मी ऑलरेडी चेक केले आहेत,none
+Please I want to see the details of my past bills,मैं अपने पुराने बिल्स की डिटेल्स देखना चाहता हूँ कृपया,प्लीज़ मला जुन्या बिल्सचे डिटेल्स बघायचे आहेत,postpaid bill payment  v1
+I don't want international roaming pack,मुझे इंटरनेशनल रोमिंग का पैक नहीं चाहिए,मला इंटरनॅशनल रोमिंग पॅक नको,none
+How did I recharge with international roaming plan earlier,मैं पहले इंटरनेशनल रोमिंग प्लान के साथ कैसे रिचार्ज किया था,मी इंटरनॅशनल रोमिंग प्लॅन बरोबर कसा रिचार्ज केला आदी,recharge an international roaming plan v1
+Tell me the process to recharge IR pack,मुझे आईआर पैक रिचार्ज करने का प्रोसेस बताइए,आयआर पॅक रिचार्ज करण्याचा प्रॉसेस सांगा मला,recharge an international roaming plan v1
+Hello please tell me about IR,हेलो आईआर के बारे में बताओ मुझे प्लीज,हॅलो मला आयआर बद्दल सांगा प्लीज़,recharge an international roaming plan v1
+Get me IR plans of Jio I am new here please,मैं यहाँ नया हूँ इसीलिए मुझे जियो की आईआर प्लान्स चाहिए,प्लीज़ मला जिओचे आयआर प्लॅन्स द्या कारण मी इथे नवीन आहे,recharge an international roaming plan v1
+I want information about IR,मैं आईआर के बारे में जानकारी चाहिए,मला आयआर बद्दल इन्फॉर्मशन द्या,recharge an international roaming plan v1
+What is international roaming when all the restaurants are closed?,इंटरनेशनल रोमिंग क्या है जब सारे रेस्टोरेंट्स बंद हो तो?,इंटरनॅशनल रोमिंग काय आहे जेव्हा सगळे रेस्टॉरंट्स बंद आहेत?,recharge an international roaming plan v1
+Please assist me to recharge a jio number,जियो नंबर को रिचार्ज करने में मुझे असिस्ट करें,प्लीज़ मला असिस्ट करा जिओ नंबरवर रिचार्ज करायला,recharge another number v1
+How can I refill a jio number,मैं जियो नंबर कैसे रिफिल करूँ,मी जिओ नंबर कसा रिफील करू,recharge another number v1
+I did recharge my number,मैंने मेरा नंबर रिचार्ज किया,मी माझा नंबर रिचार्ज केला,none
+I want to recharge an account because she announced about her wedding,मैं एक अकाउंट रिचार्ज करना चाहता हूँ क्यूंकि उसने अपनी शादी अनाउन्स की,मला एक अकाउंट रिचार्ज करायचा आहे कारण तिने आपला लग्न अनाउन्स केला,recharge another number v1
+I want to recharge an account would you mind helping,क्या आप मदद करना चाहेंगे मैं एक अकाउंट रिचार्ज करना चाहता हूँ,मला एक अकाउंट रिचार्ज करायचा आहे आपण हेल्प करणार काय,recharge another number v1
+Tell me how to refill any jio phone number,कोई भी जियो फोन नंबर को कैसे रिफिल करें,कोणताही जीयो फोन नंबर कसा रिफील करावा ते मला सांगा,recharge another number v1
+I don't want to recharge my number,मैं अपना नंबर रिचार्ज नहीं करना चाहूंगा,मला माझा नंबर रिचार्ज करायचा नाही,none
+I already recharged my jio account,मैंने पहले से ही अपना जियो अकाउंट रिचार्ज कर लिया है,मी ऑलरेडी माझा जिओ अकाउंट रिचार्ज केला आहे,none
+Cannot renew my jio account,मेरा जियो अकाउंट रिन्यू नहीं हो रहा है,माझा जीयो अकाउंट रिन्यू करू शकत नाही,recharge failed v1
+I can recharge my jio account,मैं अपना जियो अकाउंट रिचार्ज कर सकता हूँ,मी माझा जिओ अकाउंट रिचार्ज करू शकतो,none
+I need your help as I cannot recharge my jio account,मुझे आपकी मदद चाहिए क्यूंकि मैं अपना जियो अकाउंट रिचार्ज नहीं कर पा रहा हूँ,मला तुमची हेल्प पाहिजे कारण मी माझा जीयो अकाउंट रिचार्ज करू शकत नाही,recharge failed v1
+I was unable to refill my number,मैं अपना नंबर रिफिल नहीं कर पा रहा था,मी माझा नंबर रिफील करू शकलो नाही,recharge failed v1
+I was unable to recharge my number so could you please help,मैं अपना नंबर रिचार्ज नहीं कर पा रहा था कृपया आप मदद कर देंगे,मी माझा नंबर रिचार्ज करू शकलो नाही तर आपण मदत करणार काय प्लीज़,recharge failed v1
+I was unable to recharge my number because he had played the Violin long time ago,मैं अपना नंबर रिचार्ज नहीं कर पा रहा था क्यूंकि उसने वाइअलिन बहुत टाइम पहले बजाया था,मी माझा नंबर रिचार्ज करू शकलो नाही कारण त्याने वाइअलिन खूप टाइम नंतर वझवला,recharge failed v1
+what is my latest bill,मेरा लेटेस्ट बिल क्या है,माझा लेटेस्ट बिल काय आहे,view my bill v1
+Please help me with my jio number's current bill,कृपया मेरी मदद कीजिये मेरे जियो के कुरेन्ट बिल्स दिखने में,प्लीज़ मला हेल्प करा माझ्या जिओ नंबरचे करंट बिल्स सह,view my bill v1
+Can you please close my jio bills,क्या आप मेरे जियो बिल्स क्लोज कर सकते हैं प्लीज,तुम्ही जिओ बिल्स क्लोज़ करू शकता काय प्लीज़,none
+Hey please tell me about my latest bill,हे प्लीज मुझे मेरे लेटेस्ट बिल के बारे में बताओ,हे प्लीज़ मला माझा लेटेस्ट बिल सांगा,view my bill v1
+I want to view myjio bill because everbody thinks she is dead,मैं अपना जियो बिल देखना चाहता हूं क्यूनि सब सोच रहे हैं की वह मर चुकी है,मला मायजिओचे बिल बघायचे आहे कारण सगळ्यांना वाटतय कि ती मेली,view my bill v1
+You have displayed my past bills,आपने मेरे पुराने बिल्स दिखा दिए,तुम्ही माझे जुने बिल्स डिस्प्ले केले आहोत,none
+I want to look at my bill,मैं अपने बिल को देखना चाहूंगा,मला बिल पाहायचा आहे माझा,view my bill v1
+I want to view my detailed usage,मुझे अपना डिटेल्ड यूसेज व्यू करना है,मला माझा डिटेल्ड यूसेज बघायचा आहे,view my statement v1
+i want to see my phone history,मैं अपने फोन का हिस्ट्री देखना चाहता हूं,मला माझा फोनचा हिस्टरी पाहायचा आहे,view my statement v1
+I have checked my account statement,मैंने अपना अकाउंट स्टेटस चेक कर लिया है,मी माझा अकाउंट स्टेटमेंट चेक केला आहे,none
+Can you help me view account statement for my jio number,क्या आप मेरी मदद करेंगे जियो नंबर का अकाउंट स्टेटस देखने में,तुम्ही माझी मदत करणार माझ्या जिओ नंबरसाठी अकाउंट स्टेटमेंट बघण्यात,view my statement v1
+Please help me with the details of my account statement,मेरे अकाउंट स्टेटमेंट के डिटेल्स में मेरी मदद कर दीजिये,प्लीज़ मला हेल्प करा माझ्या अकाउंट स्टेटमेंटचे डिटेल्स मध्ये,view my statement v1
+Show me my account statement as I have to party tonight,मुझे मेरा अकाउंट स्टेटमेंट दिखा दीजिये क्यूंकि आज मैं पार्टी करूँगा,मला माझा अकाउंट स्टेटमेंट दाखवा कारण मला रात्री पार्टी कराची आहे,view my statement v1
+Can you please close my statement,क्या आप मेरा स्टेटमेंट बंद कर सकते हैं प्लीज,प्लीज़ माझा अकाउंट क्लोज़ करणार तुम्ही,none
+I had checked sms usage on my jio number earlier,मैंने पहले ही मेरे जियो नंबर का एसएमएस यूसेज चैक कर लिया था,मी माझ्या जिओ नंबर वर एसएमएस यूसेज चेक केली आधीच,none
+Would you help me in my sms usage,मेरे एसएमएस यूसेज कितना है उसमे मेरी हेल्प करेंगे आप,तुम्ही मला एसएमएस यूसेज मध्ये मदत करणार काय,sms usage v1
+I don't want to know my sms usage,मैं मेरा एसएमएस यूसेज नहीं जानना चाहता हूं,मला माझा एसएमएस यूसेज जाणून घ्यायचा नाही,none
+Can you please tell me my sms usage its urgent,क्या आप मुझे मेरा एसएमएस यूसेज बता देंगे प्लीज थोड़ा अर्जेंट है,आपण मला माझा एसएमएस यूसेज सांगणार काय प्लीज़ थोडा अर्जन्ट आहे,sms usage v1
+I am planning to quit my job so can you tell me my text usage,मैं मेरा जॉब क्विट करने का सोच रहा हूँ तो क्या आप मुझे मेर टेक्स्ट यूसेज बता सकते हैं,मी माझा जॉब सोडणार आहे तर आपण मला माझा टेक्स्ट यूसेज सांगू शकता काय,sms usage v1
+Message usage of my phone,मेरे फोन का मैसेज यूसेज,माझ्या फोनचा मेसेज यूसेज,sms usage v1
+SMS usage of my mobile,मेरे मोबाइल का एसएमएस यूसेज,माझ्या मोबाइलचा एसएमएस यूसेज,sms usage v1
+What's my wifi usage because barking dogs seldom bite,मेरा वाईफाई का यूसेज क्या है क्यूंकि भौंकने वाले कुत्ते कभी काटते नहीं,माझा वायफाय यूसेज काय आहे कारण भुंकणारा कुत्रा चावत नाही,wifi usage v1
+I need some information of jio net usage on my jio number,मेरे जियो नंबर का जियो नेट यूसेज की कुछ इनफार्मेशन चाहिए मुझे,मला काही माझ्या जिओ नेट यूसेज वर इन्फॉर्मशन हवी,wifi usage v1
+how much jionet internet i have utilised,मैंने कितना जियोनेट इंटरनेट का उपयोग किया है,मी जिओनेट डेटा किती युटिलाइज केला आहे,wifi usage v1
+I do not want to see my Jio Net data usage,मैं अपना जियो नेट डेटा यूसेज नहीं देखना चाहता,मला माझ्या जिओ नेट डेटाचा यूसेज बघायचा नाही,none
+I saw my Jio Net data usage,मैंने अपना जियो नेट डेटा यूसेज देख लिया है,मी माझा जिओ नेट डेटाचा यूसेज बघितला,none
+Please tell me what's my jionet wifi usage,मेरा जियोनेट वाईफ़ाई यूसेज क्या है प्लीज मुझे बता दें,प्लीज़ सांगा मला माझा जियोनेट वायफाय यूसेज काय आहे,wifi usage v1
+Wifi usage of my mobile,मेरे मोबाइल का वाईफ़ाई यूसेज,माझ्या मोबाइलचा वायफाय यूसेज,wifi usage v1
+Please don't tell me my voice usage,मेरा वॉइस यूसेज बता मुझे मत बताइये प्लीज,प्लीज़ मला माझा वोइस यूसेज सांगू नका,none
+You already told me my voice usage,आपने ऑलरेडी मुझे मेरा वॉइस यूसेज बता दिया है,तुम्ही ऑलरेडी मला माझी वोइस यूसेज सांगितली,none
+I want to watch a movie so can you tell me my voice usage,मुझे एक मूवी देखनी है तो आप मुझे मेरा वॉइस यूसेज बता सकते हैं,मला एक मूवी बघायची आहे तर मला माझा वॉइस यूसेज सांगू शकता काय आपण,voice usage v2
+Can you tell me my calling usage,क्या आप मेरा कालिंग यूसेज बता सकते हैं मुझे,मला माझा कॉलिंग यूसेज सांगू शकता काय आपण,voice usage v2
+Can you show me my voice usage,क्या आप मेरा वॉइस यूसेज दिखा सकते हैं मुझे,मला माझा वॉइस यूसेज दाखवू शकता काय आपण,voice usage v2
+Please can you tell me my voice usage,कृपया आप मेरा वॉइस यूसेज बता देंगे मुझे प्लीज,प्लीज़ माझा वॉइस यूसेज सांगू शकणार काऊ तुम्ही,voice usage v2
+I don't want to pay my bill,मुझे मेरा बिल नहीं भरना है,मला माझा बिल भरायचा नाही,none
+I want to pay my invoice,मैं अपना इनवॉइस भरना चाहता हूँ,मला माझा इनवॉइस भरायचे आहे,pay my bill v1
+Can you please help I want to pay my bill,मैं बिल भरना चाहता हूं मेरा क्या आप कृपया मेरी हेल्प कर सकते हैं,आपण माझी मदत करणार काय मला माझा बिल भरायचा आहे,pay my bill v1
+I want to pay my bill so fill a glass of water and get it here,मैं मेरा बिल भरना चाहता हूँ तो गिलास पानी से भरकर यहाँ ले आओ,मला माझा बिल भरायचा आहे तर पाणी एका ग्लास मध्ये भरून इथे आण,pay my bill v1
+I've paid bill for my account,मैंने मेरा बिल भर दिया है,माझ्या अकाउंटसाठी मी बिल भरला,none
+Pay invoice for my account,मेरे अकाउंट का इनवॉइस भरें,माझ्या अकाउंटचा इनवॉइस भरा,pay my bill v1
+I need your support in paying bill for my account,मुझे आपका सपोर्ट चाहिए अकाउंट का बिल पे करने में,मला तुमचा सपोर्ट पाहिजे माझा बिल भरण्यात,pay my bill v1
+Is my wifi connection off,क्या मेरा वाईफाई कनेक्शन ऑफ है,माझा वायफाय कनेक्शन ऑफ आहे काय,check wifi connection v1
+Was my wifi connection on,क्या मेरा वाईफाई कनेक्शन ऑन था,माझा वायफाय कनेक्शन ऑन होता काय,check wifi connection v1
+is my wireless connection on,क्या मेरा वायरलेस कनेक्शन ऑन है,माझा वायरलेस कनेक्शन ऑन आहे काय,check wifi connection v1
+I want to know if my wifi working please,मैं जानना चाहता हूँ अगर मेरा वाईफाई काम कर रहा है या नहीं,मला जाणून ग्यायचे जर माझा वायफाय काम करत आहे प्लीज़,check wifi connection v1
+Is my wifi working because there is a thief in my house,मेरा वाईफाई काम कर रहा है क्यूंकि मेरे घर में एक चोर है,माझा वायफाय काम करतोय काय कारण माझ्या घरात एक चोर आहे,check wifi connection v1
+Please can you check if my wifi is on,कृपया चेक करें अगर मेरा वाईफाई ऑन है या नहीं,प्लीज़ तुम्ही चेक करणार जर माझा वायफाय ऑन आहे काय,check wifi connection v1
+Can you check if my wireless is on,क्या आप देख सकते हैं यदि मेरा वायरलेस ऑन है या नहीं,आपण चेक करू शकता जर माझा वायरलेस ऑन आहे काय,check wifi connection v1
+Is my data connection inactive,क्या मेरा डेटा कनेक्शन इनएक्टिव है,माझा डेटा कनेक्शन इनऐक्टिव आहे का,check mobile data connection v1
+is my data connection functioning,क्या मेरा डेटा कनेक्शन फंक्शन कर रहा है,माझा डेटा कनेक्शन फंगक्शन करतय का,check mobile data connection v1
+Please let me know is my data connection active,प्लीज बताइये मुझे क्या मेरा डेटा कनेक्शन एक्टिव है,प्लीज़ मला सांगा माझा डेटा कनेक्शन इनऐक्टिव आहे काय,check mobile data connection v1
+Will my data work,क्या मेरा डेटा काम करेगा,माझा डेटा काम करणार काय,check mobile data connection v1
+Is my data working because all schools are closed today,क्या मेरा डाटा काम कर रहा है क्यूंकि सारे स्कूल्ज आज बंद हैं,माझा डेटा चालतेय का कारण सगळे स्कूल्स बंद आहे आज,check mobile data connection v1
+is my data functioning,क्या मेरा डेटा फंक्शन कर रहा है,माझा डेटा फंगक्शन करतोय का,check mobile data connection v1
+Is my data working can you please see,क्या मेरा डाटा चल रहा है क्या आप प्लीज देखेंगे,माझा डेटा काम करतोय का हे तुम्ही चेक करणार,check mobile data connection v1
+Are voice service inactive on my jio number,क्या मेरे जियो नंबर पर वॉइस सर्विस इनएक्टिव है,माझ्या जिओ नंबरवर वॉइस सर्विस इनऐक्टिव आहेत का,check may voice status v1
+Is voice service working on my jio number,क्या मेरे जियो नंबर पर वॉइस सर्विस काम कर रही है,माझ्या जिओ नंबरवर वॉइस सर्विस काम करते का,check may voice status v1
+Were voice services active on my jio number,क्या मेरे जियो नंबर पर वॉइस सर्विसिस एक्टिव थीं,माझ्या जिओ नंबरवर वॉइस सर्विसिस ऐक्टिव होते का,check may voice status v1
+Tell me about voice plans,मुझे वॉइस प्लान्स के बारे में बताएं,वॉइस प्लॅन्सबद्दल सांगा मला,check may voice status v1
+Tell me about voice service if you can please,अगर आप बता सकते हो तो मुझे वॉइस सर्विस के बारे में बताइये प्लीज,वॉइस सर्विसबद्दल सांगा मला तुम्हाला होईल तर,check may voice status v1
+Please tell me what is my voice status,प्लीज मुझे मेरा वॉइस स्टेटस क्या है बता दीजिये,प्लीज़ सांगा मला माझा वॉइस स्टेटस काय आहे,check may voice status v1
+I'm unable to make calls on my number so I went for a swim,मैं अपने नंबर पर कॉल नहीं कर पा रहा हूँ इसलिए मैं स्विमिंग करने गया,मी माझ्या नंबरवर कॉल करू शकत नाही म्हणून मी स्विमिंगला गेलो,check may voice status v1
+How to activate IR postpaid plan becase flight prices are rising,आईआर पोस्टपेड प्लान को कैसे एक्टिवेट करें क्यूंकि फ्लाइट्स के प्राइसिस गिर रहे हैं,आयआर पोस्टपेड प्लॅन कसे ऐक्टिवैट करावे कारण फ्लाइटचे प्राइसिस वाढत आहे,activate ir postpaid connection v1
+Please tell me what is IR postpaid plan,क्या है आईआर पोस्टपेड प्लान प्लीज बताइये मुझे,प्लीज़ मला सांगा हे आयआर पोस्टपेड प्लॅन काय आहे,activate ir postpaid connection v1
+Can you check if a postpaid plan for IR available,क्या आप चेक कर सकते हैं अगर पोस्टपेड प्लान आईआर के लिए अवेलेबल है,तुम्ही चेक करू शकता आयआर साठी पोस्टपेड प्लॅन आहे काय,activate ir postpaid connection v1
+Help me in starting my IR postpaid connection,मेरे आईआर पोस्टपेड कनेक्शन को स्टार्ट करने में मेरी मदद करें,माझा आयआर पोस्टपेड कनेक्शन स्टार्ट करण्यासाठी माझी हेल्प करा,activate ir postpaid connection v1
+Already activated postpaid IR on my phone,मेरे फोन पर पोस्टपेड आईआर ऑलरेडी एक्टिवेटिड है,माझ्या फोनवर पोस्टपेड आयआर ऑलरेडी ऐक्टिवैटिड केली आहे,none
+Start postpaid IR on my phone,मेरे फोन पर पोस्टपेड आईआर स्टार्ट कीजिये,माझ्या फोनवर पोस्टपेड आयआर स्टार्ट करा,activate ir postpaid connection v1
+Deactivate IR service on my postpaid plan,मेरे पोस्टपेड प्लान पर आईआर सर्विस डीएक्टिवेट करें,माझ्या पोस्टपेड प्लॅनवर आयआर सर्विस डीऐक्टिवैट करा,none
+How to activate IR postpaid plan becase the king is born,आईआर प्रीपेड प्लान को कैसे एक्टिवेट करें क्यूंकि राजा का जनम हुआ है,आयआर प्रीपेड प्लॅन कसा ऐक्टिवैट करायचा कारण राजाचा जन्म झाला आहे,activate ir prepaid connection v1
+Please tell me what is IR prepaid plan,क्या है आईआर प्रीपेड प्लान प्लीज बताइये मुझे,प्लीज़ मला सांगा हे आयआर प्रीपेड प्लॅन काय आहे?,activate ir prepaid connection v1
+Can you check if a prepaid plan for IR available,क्या आप चेक कर सकते हैं अगर प्रीपेड प्लान आईआर के लिए अवेलेबल है,आपण चेक करू शकाल प्रीपेड प्लॅनसाठी आयआर अवेलबल आहे काय?,activate ir prepaid connection v1
+Help me in starting my IR prepaid connection,मेरे आईआर प्रीपेड कनेक्शन को स्टार्ट करने में मेरी मदद करें,मला मदत करा आयआर प्रीपेड कनेक्शन स्टार्ट करण्यात,activate ir prepaid connection v1
+Already activated prepaid IR on my phone,मेरे फोन पर प्रीपेड आईआर ऑलरेडी एक्टिवेटिड है,माझ्या फोनवर प्रीपेड आयआर ऑलरेडी ऐक्टिवैटिड आहे,none
+Start prepaid IR on my phone,मेरे फोन पर प्रीपेड आईआर स्टार्ट कीजिये,माझ्या फोनवर प्रीपेड आयआर स्टार्ट करा,activate ir prepaid connection v1
+Deactivate IR service on my prepaid plan,मेरे प्रीपेड प्लान पर आईआर सर्विस डीएक्टिवेट करें,माझा प्रीपेड प्लॅनवर आयआर सर्विस डीऐक्टिवैट करा,none
